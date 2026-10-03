@@ -1,0 +1,47 @@
+[
+ {
+  "id": 8,
+  "created_at": "2026-10-03T11:29:56.892581+00:00",
+  "agent": "career",
+  "kind": "status_changed",
+  "title": "Applied Scientist Intern (Sleep and HRV) at Quanta Sleep: applied to interview",
+  "payload": {},
+  "read": false
+ },
+ {
+  "id": 6,
+  "created_at": "2026-10-02T22:29:56.892581+00:00",
+  "agent": "career",
+  "kind": "skill_gaps",
+  "title": "Most-asked missing skills: pytorch (3), mne-python (1), aws (1)",
+  "payload": {},
+  "read": true
+ },
+ {
+  "id": 5,
+  "created_at": "2026-10-02T21:29:56.892581+00:00",
+  "agent": "career",
+  "kind": "job_matched",
+  "title": "Applied Scientist Intern (Sleep and HRV) at Quanta Sleep - 84",
+  "payload": {},
+  "read": true
+ },
+ {
+  "id": 4,
+  "created_at": "2026-10-02T20:29:56.892581+00:00",
+  "agent": "career",
+  "kind": "job_matched",
+  "title": "Biosignals Research Intern at Northwind Neuro - 88",
+  "payload": {},
+  "read": true
+ },
+ {
+  "id": 2,
+  "created_at": "2026-10-01T15:29:56.892581+00:00",
+  "agent": "career",
+  "kind": "run_finished",
+  "title": "214 fetched, 214 new, 19 passed filter, 19 scored, 5 matches",
+  "payload": {},
+  "read": true
+ }
+]

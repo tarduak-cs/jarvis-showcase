@@ -1,0 +1,480 @@
+{
+ "now": "2026-10-03T16:29:58.474323+00:00",
+ "counts": {
+  "due_this_week": 4,
+  "due_14_days": 8,
+  "active_jobs": 7,
+  "new_jobs": 3,
+  "unread_events": 4,
+  "exams_14_days": 1
+ },
+ "upcoming": [
+  {
+   "uid": "sample-3",
+   "course": "Intro to Data Science - F2026",
+   "course_code": null,
+   "course_name": "Intro to Data Science",
+   "title": "Lab 3 - Regularization",
+   "kind": "assignment",
+   "starts_at": "2026-10-04T03:59:00+00:00",
+   "due_at": "2026-10-04T03:59:00+00:00",
+   "description": null,
+   "first_seen": "2026-09-28T16:29:56.892581+00:00",
+   "done": false,
+   "removed": false,
+   "weight_pct": null,
+   "weight_source": null,
+   "graded": false,
+   "score": null,
+   "grade_source": null,
+   "role": "deadline",
+   "available_at": null,
+   "reviewed": false,
+   "campus": false,
+   "d2l_tool": null,
+   "d2l_url": null,
+   "course_key": "Intro to Data Science"
+  },
+  {
+   "uid": "sample-4",
+   "course": "Research Methods Seminar",
+   "course_code": null,
+   "course_name": "Research Methods Seminar",
+   "title": "Topic proposal draft",
+   "kind": "assignment",
+   "starts_at": "2026-10-04T18:00:00+00:00",
+   "due_at": "2026-10-04T18:00:00+00:00",
+   "description": null,
+   "first_seen": "2026-09-28T16:29:56.892581+00:00",
+   "done": false,
+   "removed": false,
+   "weight_pct": null,
+   "weight_source": null,
+   "graded": false,
+   "score": null,
+   "grade_source": null,
+   "role": "deadline",
+   "available_at": null,
+   "reviewed": false,
+   "campus": false,
+   "d2l_tool": null,
+   "d2l_url": null,
+   "course_key": "Research Methods Seminar"
+  },
+  {
+   "uid": "sample-8",
+   "course": "Statistical Learning - F2026",
+   "course_code": null,
+   "course_name": "Statistical Learning",
+   "title": "Midterm",
+   "kind": "exam",
+   "starts_at": "2026-10-11T22:00:00+00:00",
+   "due_at": "2026-10-11T22:00:00+00:00",
+   "description": null,
+   "first_seen": "2026-09-28T16:29:56.892581+00:00",
+   "done": false,
+   "removed": false,
+   "weight_pct": null,
+   "weight_source": null,
+   "graded": false,
+   "score": null,
+   "grade_source": null,
+   "role": "deadline",
+   "available_at": null,
+   "reviewed": false,
+   "campus": false,
+   "d2l_tool": null,
+   "d2l_url": null,
+   "course_key": "Statistical Learning"
+  },
+  {
+   "uid": "sample-5",
+   "course": "Statistical Learning - F2026",
+   "course_code": null,
+   "course_name": "Statistical Learning",
+   "title": "Quiz 2 - Hypothesis testing",
+   "kind": "quiz",
+   "starts_at": "2026-10-06T03:59:00+00:00",
+   "due_at": "2026-10-06T03:59:00+00:00",
+   "description": null,
+   "first_seen": "2026-09-28T16:29:56.892581+00:00",
+   "done": false,
+   "removed": false,
+   "weight_pct": null,
+   "weight_source": null,
+   "graded": false,
+   "score": null,
+   "grade_source": null,
+   "role": "deadline",
+   "available_at": null,
+   "reviewed": false,
+   "campus": false,
+   "d2l_tool": null,
+   "d2l_url": null,
+   "course_key": "Statistical Learning"
+  },
+  {
+   "uid": "sample-6",
+   "course": "Data Engineering - F2026",
+   "course_code": null,
+   "course_name": "Data Engineering",
+   "title": "Assignment 1 - ETL pipeline",
+   "kind": "assignment",
+   "starts_at": "2026-10-08T03:59:00+00:00",
+   "due_at": "2026-10-08T03:59:00+00:00",
+   "description": null,
+   "first_seen": "2026-09-28T16:29:56.892581+00:00",
+   "done": false,
+   "removed": false,
+   "weight_pct": null,
+   "weight_source": null,
+   "graded": false,
+   "score": null,
+   "grade_source": null,
+   "role": "deadline",
+   "available_at": null,
+   "reviewed": false,
+   "campus": false,
+   "d2l_tool": null,
+   "d2l_url": null,
+   "course_key": "Data Engineering"
+  },
+  {
+   "uid": "sample-19",
+   "course": "Data Engineering - F2026",
+   "course_code": null,
+   "course_name": "Data Engineering",
+   "title": "Lab 2 - Due",
+   "kind": "assignment",
+   "starts_at": "2026-10-13T03:59:00+00:00",
+   "due_at": "2026-10-13T03:59:00+00:00",
+   "description": null,
+   "first_seen": "2026-09-28T16:29:56.892581+00:00",
+   "done": false,
+   "removed": false,
+   "weight_pct": null,
+   "weight_source": null,
+   "graded": false,
+   "score": null,
+   "grade_source": null,
+   "role": "deadline",
+   "available_at": "2026-10-06T13:00:00+00:00",
+   "reviewed": false,
+   "campus": false,
+   "d2l_tool": null,
+   "d2l_url": null,
+   "course_key": "Data Engineering"
+  },
+  {
+   "uid": "sample-9",
+   "course": "Intro to Data Science - F2026",
+   "course_code": null,
+   "course_name": "Intro to Data Science",
+   "title": "Assignment 2 - Model selection",
+   "kind": "assignment",
+   "starts_at": "2026-10-14T03:59:00+00:00",
+   "due_at": "2026-10-14T03:59:00+00:00",
+   "description": null,
+   "first_seen": "2026-09-28T16:29:56.892581+00:00",
+   "done": false,
+   "removed": false,
+   "weight_pct": null,
+   "weight_source": null,
+   "graded": false,
+   "score": null,
+   "grade_source": null,
+   "role": "deadline",
+   "available_at": null,
+   "reviewed": false,
+   "campus": false,
+   "d2l_tool": null,
+   "d2l_url": null,
+   "course_key": "Intro to Data Science"
+  },
+  {
+   "uid": "sample-10",
+   "course": "Data Engineering - F2026",
+   "course_code": null,
+   "course_name": "Data Engineering",
+   "title": "Quiz 3 - SQL optimisation",
+   "kind": "quiz",
+   "starts_at": "2026-10-16T03:59:00+00:00",
+   "due_at": "2026-10-16T03:59:00+00:00",
+   "description": null,
+   "first_seen": "2026-09-28T16:29:56.892581+00:00",
+   "done": false,
+   "removed": false,
+   "weight_pct": null,
+   "weight_source": null,
+   "graded": false,
+   "score": null,
+   "grade_source": null,
+   "role": "deadline",
+   "available_at": null,
+   "reviewed": false,
+   "campus": false,
+   "d2l_tool": null,
+   "d2l_url": null,
+   "course_key": "Data Engineering"
+  }
+ ],
+ "load_by_day": [
+  1,
+  1,
+  1,
+  0,
+  1,
+  0,
+  0,
+  0,
+  1,
+  1,
+  1,
+  0,
+  1,
+  0
+ ],
+ "top_jobs": [
+  {
+   "id": "sample:northwind neuro:0",
+   "source": "sample",
+   "company": "Northwind Neuro",
+   "title": "Biosignals Research Intern",
+   "location": "Toronto, ON",
+   "url": "https://example.org/job",
+   "apply_url": "https://example.org/job",
+   "score": 88,
+   "level_fit": "good",
+   "matched_skills": [
+    "Python",
+    "scikit-learn",
+    "signal processing"
+   ],
+   "missing_skills": [
+    "PyTorch",
+    "MNE-Python"
+   ],
+   "reason": "Entry-level biosignals role; PyTorch is the main gap.",
+   "status": "shortlisted",
+   "applied_elsewhere_note": null
+  },
+  {
+   "id": "sample:quanta sleep:6",
+   "source": "sample",
+   "company": "Quanta Sleep",
+   "title": "Applied Scientist Intern (Sleep and HRV)",
+   "location": "Remote (North America)",
+   "url": "https://example.org/job",
+   "apply_url": "https://example.org/job",
+   "score": 84,
+   "level_fit": "good",
+   "matched_skills": [
+    "Python",
+    "statistics",
+    "time series"
+   ],
+   "missing_skills": [
+    "PyTorch",
+    "deep time-series models"
+   ],
+   "reason": "Sleep and HRV modelling is close to the sample's target area.",
+   "status": "interview",
+   "applied_elsewhere_note": null
+  },
+  {
+   "id": "sample:pulse labs:1",
+   "source": "sample",
+   "company": "Pulse Labs",
+   "title": "Data Scientist, New Grad (Wearables)",
+   "location": "Remote (Canada)",
+   "url": "https://example.org/job",
+   "apply_url": "https://example.org/job",
+   "score": 81,
+   "level_fit": "good",
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "XGBoost"
+   ],
+   "missing_skills": [
+    "Signal processing",
+    "AWS"
+   ],
+   "reason": "Wearables data role open to new grads; strong SQL and Python overlap.",
+   "status": "preparing",
+   "applied_elsewhere_note": null
+  },
+  {
+   "id": "sample:aurora bank:5",
+   "source": "sample",
+   "company": "Aurora Bank",
+   "title": "Data Science Co-op",
+   "location": "Toronto, ON",
+   "url": "https://example.org/job",
+   "apply_url": "https://example.org/job",
+   "score": 71,
+   "level_fit": "good",
+   "matched_skills": [
+    "Python",
+    "SQL",
+    "XGBoost"
+   ],
+   "missing_skills": [
+    "Azure",
+    "Spark"
+   ],
+   "reason": "Structured co-op program in finance.",
+   "status": "applied",
+   "applied_elsewhere_note": null
+  }
+ ],
+ "pipeline": {
+  "applied": 3,
+  "interview": 2,
+  "new": 3,
+  "preparing": 1,
+  "rejected": 2,
+  "shortlisted": 1
+ },
+ "events": [
+  {
+   "id": 12,
+   "created_at": "2026-10-03T12:29:56.892581+00:00",
+   "agent": "email",
+   "kind": "application_found",
+   "title": "Application found: Analytics Co-op at Tidewater Mutual",
+   "payload": {},
+   "read": false
+  },
+  {
+   "id": 11,
+   "created_at": "2026-10-03T13:29:56.892581+00:00",
+   "agent": "email",
+   "kind": "application_update",
+   "title": "Arc Motion - ML Research Intern: interview",
+   "payload": {},
+   "read": false
+  },
+  {
+   "id": 8,
+   "created_at": "2026-10-03T11:29:56.892581+00:00",
+   "agent": "career",
+   "kind": "status_changed",
+   "title": "Applied Scientist Intern (Sleep and HRV) at Quanta Sleep: applied to interview",
+   "payload": {},
+   "read": false
+  },
+  {
+   "id": 7,
+   "created_at": "2026-10-03T10:29:56.892581+00:00",
+   "agent": "school",
+   "kind": "item_changed",
+   "title": "Changed: Midterm (moved 2 days later)",
+   "payload": {},
+   "read": false
+  },
+  {
+   "id": 6,
+   "created_at": "2026-10-02T22:29:56.892581+00:00",
+   "agent": "career",
+   "kind": "skill_gaps",
+   "title": "Most-asked missing skills: pytorch (3), mne-python (1), aws (1)",
+   "payload": {},
+   "read": true
+  },
+  {
+   "id": 5,
+   "created_at": "2026-10-02T21:29:56.892581+00:00",
+   "agent": "career",
+   "kind": "job_matched",
+   "title": "Applied Scientist Intern (Sleep and HRV) at Quanta Sleep - 84",
+   "payload": {},
+   "read": true
+  },
+  {
+   "id": 4,
+   "created_at": "2026-10-02T20:29:56.892581+00:00",
+   "agent": "career",
+   "kind": "job_matched",
+   "title": "Biosignals Research Intern at Northwind Neuro - 88",
+   "payload": {},
+   "read": true
+  },
+  {
+   "id": 3,
+   "created_at": "2026-10-02T10:29:56.892581+00:00",
+   "agent": "school",
+   "kind": "item_added",
+   "title": "New: Quiz 3 - SQL optimisation",
+   "payload": {},
+   "read": true
+  }
+ ],
+ "last_runs": {
+  "school": {
+   "id": 9,
+   "created_at": "2026-10-03T15:29:56.892581+00:00",
+   "agent": "school",
+   "kind": "run_finished",
+   "title": "11 items: 0 new, 1 changed, 0 removed",
+   "payload": {},
+   "read": false
+  },
+  "email": {
+   "id": 10,
+   "created_at": "2026-10-03T15:29:56.892581+00:00",
+   "agent": "email",
+   "kind": "run_finished",
+   "title": "1,284 emails checked, 23 looked job-related, 5 new applications, 3 updates",
+   "payload": {},
+   "read": false
+  },
+  "career": {
+   "id": 2,
+   "created_at": "2026-10-01T15:29:56.892581+00:00",
+   "agent": "career",
+   "kind": "run_finished",
+   "title": "214 fetched, 214 new, 19 passed filter, 19 scored, 5 matches",
+   "payload": {},
+   "read": true
+  }
+ },
+ "skill_gaps": [
+  {
+   "skill": "PyTorch",
+   "count": 3
+  },
+  {
+   "skill": "MNE-Python",
+   "count": 1
+  },
+  {
+   "skill": "Signal processing",
+   "count": 1
+  },
+  {
+   "skill": "AWS",
+   "count": 1
+  },
+  {
+   "skill": "Docker",
+   "count": 1
+  },
+  {
+   "skill": "Tableau",
+   "count": 1
+  }
+ ],
+ "claude_week": {
+  "cost_usd": 0.1102,
+  "calls": 36,
+  "escalated": 2,
+  "unpriced_calls": 0
+ },
+ "projects": {
+  "active": 3,
+  "stale": 1,
+  "open_tasks": 0,
+  "need_attention": 0
+ }
+}

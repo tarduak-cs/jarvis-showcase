@@ -1,0 +1,93 @@
+{
+ "Intro to Data Science": {
+  "graded_pct": 0.0,
+  "average": null,
+  "scored_weight_pct": 0.0,
+  "unweighted_scores": 1,
+  "has_scheme": false,
+  "hidden": false,
+  "campus": false,
+  "campus_override": null,
+  "outline": null,
+  "files": null,
+  "items_without_weight": 5
+ },
+ "Statistical Learning": {
+  "graded_pct": 0.0,
+  "average": null,
+  "scored_weight_pct": 0.0,
+  "unweighted_scores": 1,
+  "has_scheme": true,
+  "hidden": false,
+  "campus": false,
+  "campus_override": null,
+  "outline": null,
+  "files": null,
+  "items_without_weight": 3
+ },
+ "Research Methods Seminar": {
+  "graded_pct": 0.0,
+  "average": null,
+  "scored_weight_pct": 0.0,
+  "unweighted_scores": 0,
+  "has_scheme": false,
+  "hidden": false,
+  "campus": false,
+  "campus_override": null,
+  "outline": null,
+  "files": null,
+  "items_without_weight": 2
+ },
+ "Data Engineering": {
+  "graded_pct": 0.0,
+  "average": null,
+  "scored_weight_pct": 0.0,
+  "unweighted_scores": 0,
+  "has_scheme": true,
+  "hidden": false,
+  "campus": false,
+  "campus_override": null,
+  "outline": null,
+  "files": null,
+  "items_without_weight": 4
+ },
+ "Lab Block A (Campus Room 2)": {
+  "graded_pct": 0.0,
+  "average": null,
+  "scored_weight_pct": 0.0,
+  "unweighted_scores": 0,
+  "has_scheme": false,
+  "hidden": false,
+  "campus": true,
+  "campus_override": null,
+  "outline": null,
+  "files": null,
+  "items_without_weight": 0
+ },
+ "Online Lab (Video)": {
+  "graded_pct": 0.0,
+  "average": null,
+  "scored_weight_pct": 0.0,
+  "unweighted_scores": 0,
+  "has_scheme": false,
+  "hidden": false,
+  "campus": true,
+  "campus_override": null,
+  "outline": null,
+  "files": null,
+  "items_without_weight": 0
+ },
+ "Academic Integrity": {
+  "graded_pct": 0.0,
+  "average": null,
+  "scored_weight_pct": 0.0,
+  "unweighted_scores": 0,
+  "has_scheme": false,
+  "hidden": true,
+  "campus": false,
+  "campus_override": null,
+  "outline": null,
+  "files": null,
+  "items_without_weight": 1
+ }
+}

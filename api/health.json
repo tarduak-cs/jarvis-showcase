@@ -1,0 +1,13 @@
+{
+ "ok": true,
+ "demo": true,
+ "display_name": "Sample student",
+ "database": "local",
+ "configured": {
+  "d2l": true,
+  "claude": true,
+  "phone": false,
+  "email": true,
+  "tailscale": false
+ }
+}

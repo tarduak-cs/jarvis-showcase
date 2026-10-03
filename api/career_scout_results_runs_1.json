@@ -1,0 +1,69 @@
+{
+ "results": [
+  {
+   "id": "scout:1:0",
+   "run_id": 1,
+   "created_at": "2026-10-03T16:29:56.960439+00:00",
+   "company": "Signal and Sage",
+   "title": "ML Research Intern (Wearables)",
+   "url": "https://example.org/job",
+   "apply_url": "https://example.org/job",
+   "location": "Remote (Canada)",
+   "remote_type": "remote",
+   "job_type": "internship",
+   "hours": "not stated",
+   "start_date": "May 2027",
+   "deadline": "not stated",
+   "pay": "not stated",
+   "summary": "ML Research Intern (Wearables) at Signal and Sage.",
+   "why_fits": "Wearables signal-processing internship close to the sample's focus.",
+   "missing_skills": [
+    "PyTorch",
+    "MNE-Python"
+   ],
+   "pros": [
+    "Remote-first",
+    "Small team"
+   ],
+   "cons": [
+    "Long application with a take-home task"
+   ],
+   "effort": "long",
+   "fit_score": 87,
+   "verification_note": "ok",
+   "status": "new"
+  },
+  {
+   "id": "scout:1:1",
+   "run_id": 1,
+   "created_at": "2026-10-03T16:29:56.960439+00:00",
+   "company": "Harbor Health Analytics",
+   "title": "Part-Time Data Analyst (Co-op)",
+   "url": "https://example.org/job",
+   "apply_url": "https://example.org/job",
+   "location": "Toronto, ON (Hybrid)",
+   "remote_type": "hybrid",
+   "job_type": "part-time",
+   "hours": "~15 hrs/week",
+   "start_date": "not stated",
+   "deadline": "not stated",
+   "pay": "$22/hr",
+   "summary": "Part-Time Data Analyst (Co-op) at Harbor Health Analytics.",
+   "why_fits": "Part-time hours fit around a full course load; health-data domain.",
+   "missing_skills": [
+    "Tableau"
+   ],
+   "pros": [
+    "Flexible hours",
+    "Health domain"
+   ],
+   "cons": [
+    "Not machine-learning specific"
+   ],
+   "effort": "quick",
+   "fit_score": 71,
+   "verification_note": "ok",
+   "status": "new"
+  }
+ ]
+}
