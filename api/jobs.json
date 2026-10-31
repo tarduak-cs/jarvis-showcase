@@ -7,7 +7,8 @@
   "interview",
   "offer",
   "rejected",
-  "skipped"
+  "skipped",
+  "closed"
  ],
  "jobs": [
   {
@@ -19,7 +20,7 @@
    "url": "https://example.org/job",
    "apply_url": "https://example.org/job",
    "posted_at": null,
-   "first_seen": "2026-10-03T16:29:56.892581+00:00",
+   "first_seen": "2026-10-31T13:23:25.867542+00:00",
    "score": 88,
    "level_fit": "good",
    "matched_skills": [
@@ -47,7 +48,7 @@
    "url": "https://example.org/job",
    "apply_url": "https://example.org/job",
    "posted_at": null,
-   "first_seen": "2026-10-01T22:29:56.892581+00:00",
+   "first_seen": "2026-10-29T19:23:25.867542+00:00",
    "score": 84,
    "level_fit": "good",
    "matched_skills": [
@@ -62,8 +63,8 @@
    "reason": "Sleep and HRV modelling is close to the sample's target area.",
    "status": "interview",
    "passed_prefilter": true,
-   "applied_at": "2026-09-21T16:29:56.892581+00:00",
-   "status_updated_at": "2026-10-01T16:29:56.892581+00:00",
+   "applied_at": "2026-10-19T13:23:25.867542+00:00",
+   "status_updated_at": "2026-10-29T13:23:25.867542+00:00",
    "applied_elsewhere_note": null
   },
   {
@@ -75,7 +76,7 @@
    "url": "https://example.org/job",
    "apply_url": "https://example.org/job",
    "posted_at": null,
-   "first_seen": "2026-10-03T09:29:56.892581+00:00",
+   "first_seen": "2026-10-31T06:23:25.867542+00:00",
    "score": 81,
    "level_fit": "good",
    "matched_skills": [
@@ -103,7 +104,7 @@
    "url": "https://example.org/job",
    "apply_url": "https://example.org/job",
    "posted_at": null,
-   "first_seen": "2026-10-02T05:29:56.892581+00:00",
+   "first_seen": "2026-10-30T02:23:25.867542+00:00",
    "score": 71,
    "level_fit": "good",
    "matched_skills": [
@@ -118,7 +119,7 @@
    "reason": "Structured co-op program in finance.",
    "status": "applied",
    "passed_prefilter": true,
-   "applied_at": "2026-09-22T16:29:56.892581+00:00",
+   "applied_at": "2026-10-20T13:23:25.867542+00:00",
    "status_updated_at": null,
    "applied_elsewhere_note": null
   },
@@ -131,7 +132,7 @@
    "url": null,
    "apply_url": null,
    "posted_at": null,
-   "first_seen": "2026-09-24T16:29:56.892581+00:00",
+   "first_seen": "2026-10-22T13:23:25.867542+00:00",
    "score": null,
    "level_fit": null,
    "matched_skills": [],
@@ -139,8 +140,8 @@
    "reason": "Found in the sample inbox",
    "status": "applied",
    "passed_prefilter": true,
-   "applied_at": "2026-09-24T16:29:56.892581+00:00",
-   "status_updated_at": "2026-09-29T16:29:56.892581+00:00",
+   "applied_at": "2026-10-22T13:23:25.867542+00:00",
+   "status_updated_at": "2026-10-27T13:23:25.867542+00:00",
    "applied_elsewhere_note": null
   },
   {
@@ -152,7 +153,7 @@
    "url": null,
    "apply_url": null,
    "posted_at": null,
-   "first_seen": "2026-09-21T16:29:56.892581+00:00",
+   "first_seen": "2026-10-19T13:23:25.867542+00:00",
    "score": null,
    "level_fit": null,
    "matched_skills": [],
@@ -160,8 +161,8 @@
    "reason": "Found in the sample inbox",
    "status": "applied",
    "passed_prefilter": true,
-   "applied_at": "2026-09-21T16:29:56.892581+00:00",
-   "status_updated_at": "2026-09-26T16:29:56.892581+00:00",
+   "applied_at": "2026-10-19T13:23:25.867542+00:00",
+   "status_updated_at": "2026-10-24T13:23:25.867542+00:00",
    "applied_elsewhere_note": null
   },
   {
@@ -173,7 +174,7 @@
    "url": null,
    "apply_url": null,
    "posted_at": null,
-   "first_seen": "2026-09-18T16:29:56.892581+00:00",
+   "first_seen": "2026-10-16T13:23:25.867542+00:00",
    "score": null,
    "level_fit": null,
    "matched_skills": [],
@@ -181,8 +182,8 @@
    "reason": "Found in the sample inbox",
    "status": "interview",
    "passed_prefilter": true,
-   "applied_at": "2026-09-18T16:29:56.892581+00:00",
-   "status_updated_at": "2026-09-23T16:29:56.892581+00:00",
+   "applied_at": "2026-10-16T13:23:25.867542+00:00",
+   "status_updated_at": "2026-10-21T13:23:25.867542+00:00",
    "applied_elsewhere_note": null
   },
   {
@@ -194,7 +195,7 @@
    "url": null,
    "apply_url": null,
    "posted_at": null,
-   "first_seen": "2026-09-09T16:29:56.892581+00:00",
+   "first_seen": "2026-10-07T13:23:25.867542+00:00",
    "score": null,
    "level_fit": null,
    "matched_skills": [],
@@ -202,8 +203,8 @@
    "reason": "Found in the sample inbox",
    "status": "rejected",
    "passed_prefilter": true,
-   "applied_at": "2026-09-09T16:29:56.892581+00:00",
-   "status_updated_at": "2026-09-14T16:29:56.892581+00:00",
+   "applied_at": "2026-10-07T13:23:25.867542+00:00",
+   "status_updated_at": "2026-10-12T13:23:25.867542+00:00",
    "applied_elsewhere_note": null
   },
   {
@@ -215,7 +216,7 @@
    "url": null,
    "apply_url": null,
    "posted_at": null,
-   "first_seen": "2026-09-03T16:29:56.892581+00:00",
+   "first_seen": "2026-10-01T13:23:25.867542+00:00",
    "score": null,
    "level_fit": null,
    "matched_skills": [],
@@ -223,8 +224,8 @@
    "reason": "Found in the sample inbox",
    "status": "rejected",
    "passed_prefilter": true,
-   "applied_at": "2026-09-03T16:29:56.892581+00:00",
-   "status_updated_at": "2026-09-08T16:29:56.892581+00:00",
+   "applied_at": "2026-10-01T13:23:25.867542+00:00",
+   "status_updated_at": "2026-10-06T13:23:25.867542+00:00",
    "applied_elsewhere_note": null
   }
  ]

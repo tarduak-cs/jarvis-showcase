@@ -1,0 +1,290 @@
+{
+ "channels": [
+  {
+   "key": "arjun",
+   "name": "Verse a Day",
+   "configured": true
+  },
+  {
+   "key": "hmw",
+   "name": "Pocket Physics",
+   "configured": true
+  }
+ ],
+ "gpt_configured": true,
+ "budget": {
+  "budget_usd": 5.0,
+  "spent_usd": 0.87,
+  "remaining_usd": 4.13,
+  "claude_usd": 0.79,
+  "gpt_usd": 0.08,
+  "gpt_calls": 12,
+  "gpt_unpriced_calls": 0,
+  "gpt_calls_cap": 40,
+  "week_start": "2026-10-26"
+ },
+ "runs": [
+  {
+   "id": 2,
+   "channel": "hmw",
+   "created_at": "2026-10-29T12:23:25.867542+00:00",
+   "finished_at": "2026-10-29T13:23:25.867542+00:00",
+   "status": "done",
+   "step": "done",
+   "trigger": "auto",
+   "seed": null,
+   "claude_cost_usd": 0.37,
+   "gpt_cost_usd": 0.066,
+   "claude_calls": 9,
+   "gpt_calls": 6,
+   "error": null
+  }
+ ],
+ "ideas": [
+  {
+   "id": 5,
+   "run_id": 2,
+   "channel": "hmw",
+   "created_at": "2026-10-29T13:23:25.867542+00:00",
+   "author": "claude",
+   "title": "Why does metal feel colder than wood?",
+   "hook": "They're the same temperature. Your hand disagrees.",
+   "angle": "everyday problem first, then the idea",
+   "source": "heat, light and motion basics",
+   "format": "short explainer",
+   "hook_type": "question",
+   "pitch": null,
+   "reviews": {
+    "claude": {
+     "hook": 9,
+     "fit": 8,
+     "novelty": 7,
+     "feasibility": 9,
+     "accuracy_risk": 2,
+     "comment": "Strong first line, easy to film."
+    },
+    "gpt": {
+     "hook": 8,
+     "fit": 8,
+     "novelty": 8,
+     "feasibility": 8,
+     "accuracy_risk": 3,
+     "comment": "Good, but the middle needs one concrete example."
+    }
+   },
+   "score": 8.8,
+   "refined": true,
+   "script": {
+    "title": "Why does metal feel colder than wood?",
+    "hook": "They're the same temperature. Your hand disagrees.",
+    "alt_hooks": [
+     "They're the same temperature?",
+     "Here's what's actually going on."
+    ],
+    "script": [
+     "They're the same temperature. Your hand disagrees.",
+     "Here's the short version of why.",
+     "One line to remember it by.",
+     "Follow for tomorrow's."
+    ],
+    "word_count": 72,
+    "on_screen": [
+     "Why does metal feel colder than wood?"
+    ],
+    "shots": [
+     {
+      "line": "They're the same temperature. Your hand disagrees.",
+      "visual": "close-up, slow push in"
+     }
+    ],
+    "youtube_title": "Why does metal feel colder than wood?",
+    "youtube_description": "Why does metal feel colder than wood? (sample)",
+    "instagram_caption": "Why does metal feel colder than wood? #sample",
+    "tiktok_caption": "Why does metal feel colder than wood? #sample",
+    "pinned_comment": "What should the next one be?",
+    "sources": [
+     "https://example.org/sample-source"
+    ],
+    "accuracy_notes": "Claims checked against the cited source.",
+    "changes": [
+     "Hook shortened to one line",
+     "Removed a claim the fact check couldn't verify"
+    ],
+    "pushback": [
+     "Kept the callback line: it tested well before"
+    ]
+   },
+   "critique": {
+    "score": 8.8,
+    "verdict": "ship with small edits",
+    "rule_violations": [],
+    "accuracy_issues": [],
+    "retention_notes": [
+     "Payoff lands at 18 s, keep it there"
+    ],
+    "line_edits": [
+     {
+      "line": "Here's the short version of why.",
+      "better": "Short version:",
+      "why": "two words saved"
+     }
+    ]
+   },
+   "factcheck": {
+    "pass": true,
+    "issues": [],
+    "rule_violations": []
+   },
+   "status": "proposed",
+   "decision_note": null,
+   "decided_at": null,
+   "exported_to": null
+  },
+  {
+   "id": 6,
+   "run_id": 2,
+   "channel": "hmw",
+   "created_at": "2026-10-29T13:23:25.867542+00:00",
+   "author": "gpt",
+   "title": "What if you fell through the Earth?",
+   "hook": "A tunnel straight through the planet. Jump.",
+   "angle": "everyday problem first, then the idea",
+   "source": "heat, light and motion basics",
+   "format": "short explainer",
+   "hook_type": "question",
+   "pitch": null,
+   "reviews": {
+    "claude": {
+     "hook": 9,
+     "fit": 8,
+     "novelty": 7,
+     "feasibility": 9,
+     "accuracy_risk": 2,
+     "comment": "Strong first line, easy to film."
+    },
+    "gpt": {
+     "hook": 8,
+     "fit": 8,
+     "novelty": 8,
+     "feasibility": 8,
+     "accuracy_risk": 3,
+     "comment": "Good, but the middle needs one concrete example."
+    }
+   },
+   "score": 8.3,
+   "refined": true,
+   "script": {
+    "title": "What if you fell through the Earth?",
+    "hook": "A tunnel straight through the planet. Jump.",
+    "alt_hooks": [
+     "A tunnel straight through the planet?",
+     "Here's what's actually going on."
+    ],
+    "script": [
+     "A tunnel straight through the planet. Jump.",
+     "Here's the short version of why.",
+     "One line to remember it by.",
+     "Follow for tomorrow's."
+    ],
+    "word_count": 72,
+    "on_screen": [
+     "What if you fell through the Earth?"
+    ],
+    "shots": [
+     {
+      "line": "A tunnel straight through the planet. Jump.",
+      "visual": "close-up, slow push in"
+     }
+    ],
+    "youtube_title": "What if you fell through the Earth?",
+    "youtube_description": "What if you fell through the Earth? (sample)",
+    "instagram_caption": "What if you fell through the Earth? #sample",
+    "tiktok_caption": "What if you fell through the Earth? #sample",
+    "pinned_comment": "What should the next one be?",
+    "sources": [
+     "https://example.org/sample-source"
+    ],
+    "accuracy_notes": "Claims checked against the cited source.",
+    "changes": [
+     "Hook shortened to one line",
+     "Removed a claim the fact check couldn't verify"
+    ],
+    "pushback": [
+     "Kept the callback line: it tested well before"
+    ]
+   },
+   "critique": {
+    "score": 8.3,
+    "verdict": "ship with small edits",
+    "rule_violations": [],
+    "accuracy_issues": [],
+    "retention_notes": [
+     "Payoff lands at 18 s, keep it there"
+    ],
+    "line_edits": [
+     {
+      "line": "Here's the short version of why.",
+      "better": "Short version:",
+      "why": "two words saved"
+     }
+    ]
+   },
+   "factcheck": {
+    "pass": false,
+    "issues": [
+     {
+      "claim": "You'd come out the other side",
+      "problem": "Ignores air resistance and heat",
+      "fix": "Say 'in a perfect vacuum tunnel'"
+     }
+    ],
+    "rule_violations": []
+   },
+   "status": "flagged",
+   "decision_note": null,
+   "decided_at": null,
+   "exported_to": null
+  },
+  {
+   "id": 7,
+   "run_id": 2,
+   "channel": "hmw",
+   "created_at": "2026-10-29T13:23:25.867542+00:00",
+   "author": "claude",
+   "title": "Why do onions make you cry?",
+   "hook": "It's chemistry, and it's aimed at your eyes.",
+   "angle": "everyday problem first, then the idea",
+   "source": "heat, light and motion basics",
+   "format": "short explainer",
+   "hook_type": "question",
+   "pitch": null,
+   "reviews": {
+    "claude": {
+     "hook": 9,
+     "fit": 8,
+     "novelty": 7,
+     "feasibility": 9,
+     "accuracy_risk": 2,
+     "comment": "Strong first line, easy to film."
+    },
+    "gpt": {
+     "hook": 8,
+     "fit": 8,
+     "novelty": 8,
+     "feasibility": 8,
+     "accuracy_risk": 3,
+     "comment": "Good, but the middle needs one concrete example."
+    }
+   },
+   "score": 7.0,
+   "refined": false,
+   "script": null,
+   "critique": null,
+   "factcheck": null,
+   "status": "candidate",
+   "decision_note": null,
+   "decided_at": null,
+   "exported_to": null
+  }
+ ]
+}

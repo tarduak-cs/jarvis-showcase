@@ -1,0 +1,72 @@
+{
+ "daily": {
+  "id": "sample-daily",
+  "kind": "daily",
+  "started": "2026-10-31T06:23:26.022153Z",
+  "finished": "2026-10-31T06:27:26.022153Z",
+  "ok": true,
+  "model": "Sonnet",
+  "cost_usd": 0.21,
+  "turns": 14,
+  "duration_s": 236,
+  "proposals": [
+   {
+    "id": "sample-061",
+    "title": "Job Scout: weekly digest instead of per-run notifications",
+    "channel": "jarvis",
+    "url": "decisions/sample-061.html"
+   }
+  ],
+  "dropped": [
+   "Duplicate of an open decision"
+  ],
+  "scan": {
+   "summary": "Both channels steady. Pocket Physics' 'Moon' video is pulling 3x its usual TikTok views.",
+   "unusual": [
+    {
+     "what": "TikTok spike on one Pocket Physics video",
+     "evidence": "21.8k plays in 48 h vs a 6k median",
+     "confidence": "high"
+    }
+   ],
+   "news": [
+    {
+     "title": "Sample: platform tests longer Shorts",
+     "url": "https://example.org/sample-news",
+     "why_it_matters": "Could allow 60-second explainers."
+    }
+   ],
+   "evidence_gaps": [
+    "Instagram retention isn't available for posts older than 28 days"
+   ]
+  }
+ },
+ "weekly": {
+  "id": "sample-weekly",
+  "kind": "weekly",
+  "started": "2026-10-25T11:23:26.022153Z",
+  "finished": "2026-10-25T11:34:26.022153Z",
+  "ok": true,
+  "model": "Opus",
+  "cost_usd": 1.38,
+  "turns": 31,
+  "duration_s": 655,
+  "proposals": [
+   {
+    "id": "sample-060",
+    "title": "Verse a Day: test a 3-part series format next week",
+    "channel": "verse",
+    "url": "decisions/sample-060.html"
+   }
+  ],
+  "dropped": [],
+  "scan": {
+   "summary": "Week over week: views +18%, cost per 1k views down from $0.071 to $0.054."
+  }
+ },
+ "models": {
+  "daily": "Sonnet",
+  "weekly": "Opus"
+ },
+ "running": false
+}

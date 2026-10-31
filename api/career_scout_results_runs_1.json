@@ -3,7 +3,7 @@
   {
    "id": "scout:1:0",
    "run_id": 1,
-   "created_at": "2026-10-03T16:29:56.960439+00:00",
+   "created_at": "2026-10-31T13:23:26.013696+00:00",
    "company": "Signal and Sage",
    "title": "ML Research Intern (Wearables)",
    "url": "https://example.org/job",
@@ -31,12 +31,14 @@
    "effort": "long",
    "fit_score": 87,
    "verification_note": "ok",
+   "check": null,
+   "source_site": null,
    "status": "new"
   },
   {
    "id": "scout:1:1",
    "run_id": 1,
-   "created_at": "2026-10-03T16:29:56.960439+00:00",
+   "created_at": "2026-10-31T13:23:26.013702+00:00",
    "company": "Harbor Health Analytics",
    "title": "Part-Time Data Analyst (Co-op)",
    "url": "https://example.org/job",
@@ -63,6 +65,8 @@
    "effort": "quick",
    "fit_score": 71,
    "verification_note": "ok",
+   "check": null,
+   "source_site": null,
    "status": "new"
   }
  ]

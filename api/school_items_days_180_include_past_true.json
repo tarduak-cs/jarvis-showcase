@@ -6,10 +6,10 @@
   "course_name": "Intro to Data Science",
   "title": "Lab 1 - Linear regression",
   "kind": "assignment",
-  "starts_at": "2026-09-22T03:59:00+00:00",
-  "due_at": "2026-09-22T03:59:00+00:00",
+  "starts_at": "2026-10-20T03:59:00+00:00",
+  "due_at": "2026-10-20T03:59:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": true,
   "removed": false,
   "weight_pct": null,
@@ -23,7 +23,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Intro to Data Science"
+  "course_key": "Intro to Data Science",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "done",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-14",
@@ -32,10 +44,10 @@
   "course_name": "Statistical Learning",
   "title": "Week 3 - Available",
   "kind": "event",
-  "starts_at": "2026-09-24T21:00:00+00:00",
-  "due_at": "2026-09-24T21:00:00+00:00",
+  "starts_at": "2026-10-22T21:00:00+00:00",
+  "due_at": "2026-10-22T21:00:00+00:00",
   "description": "Modules:\nWeek 3 - Available\n\n\nView event - https://courses.example.org/calendar/event/1",
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -49,7 +61,19 @@
   "campus": false,
   "d2l_tool": "module",
   "d2l_url": null,
-  "course_key": "Statistical Learning"
+  "course_key": "Statistical Learning",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-1",
@@ -58,10 +82,10 @@
   "course_name": "Statistical Learning",
   "title": "Quiz 1 - Probability review",
   "kind": "quiz",
-  "starts_at": "2026-09-27T03:59:00+00:00",
-  "due_at": "2026-09-27T03:59:00+00:00",
+  "starts_at": "2026-10-25T03:59:00+00:00",
+  "due_at": "2026-10-25T03:59:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": true,
   "removed": false,
   "weight_pct": null,
@@ -75,7 +99,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Statistical Learning"
+  "course_key": "Statistical Learning",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "done",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-2",
@@ -84,10 +120,10 @@
   "course_name": "Intro to Data Science",
   "title": "Lab 2 - Classification",
   "kind": "assignment",
-  "starts_at": "2026-09-29T03:59:00+00:00",
-  "due_at": "2026-09-29T03:59:00+00:00",
+  "starts_at": "2026-10-27T03:59:00+00:00",
+  "due_at": "2026-10-27T03:59:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": true,
   "removed": false,
   "weight_pct": null,
@@ -101,7 +137,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Intro to Data Science"
+  "course_key": "Intro to Data Science",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "done",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-15",
@@ -110,10 +158,10 @@
   "course_name": "Statistical Learning",
   "title": "Week 4 - Available",
   "kind": "event",
-  "starts_at": "2026-10-01T21:00:00+00:00",
-  "due_at": "2026-10-01T21:00:00+00:00",
+  "starts_at": "2026-10-29T21:00:00+00:00",
+  "due_at": "2026-10-29T21:00:00+00:00",
   "description": "Modules:\nWeek 4 - Available\n\n\nView event - https://courses.example.org/calendar/event/1",
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -127,7 +175,19 @@
   "campus": false,
   "d2l_tool": "module",
   "d2l_url": null,
-  "course_key": "Statistical Learning"
+  "course_key": "Statistical Learning",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-16",
@@ -136,10 +196,10 @@
   "course_name": "Intro to Data Science",
   "title": "Week 5 slides - Available",
   "kind": "event",
-  "starts_at": "2026-10-02T13:00:00+00:00",
-  "due_at": "2026-10-02T13:00:00+00:00",
+  "starts_at": "2026-10-30T13:00:00+00:00",
+  "due_at": "2026-10-30T13:00:00+00:00",
   "description": "Modules:\nWeek 5 slides - Available\n\n\nView event - https://courses.example.org/calendar/event/1",
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -153,7 +213,19 @@
   "campus": false,
   "d2l_tool": "module",
   "d2l_url": null,
-  "course_key": "Intro to Data Science"
+  "course_key": "Intro to Data Science",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-3",
@@ -162,10 +234,10 @@
   "course_name": "Intro to Data Science",
   "title": "Lab 3 - Regularization",
   "kind": "assignment",
-  "starts_at": "2026-10-04T03:59:00+00:00",
-  "due_at": "2026-10-04T03:59:00+00:00",
+  "starts_at": "2026-11-01T03:59:00+00:00",
+  "due_at": "2026-11-01T03:59:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -179,7 +251,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Intro to Data Science"
+  "course_key": "Intro to Data Science",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-4",
@@ -188,10 +272,10 @@
   "course_name": "Research Methods Seminar",
   "title": "Topic proposal draft",
   "kind": "assignment",
-  "starts_at": "2026-10-04T18:00:00+00:00",
-  "due_at": "2026-10-04T18:00:00+00:00",
+  "starts_at": "2026-11-01T18:00:00+00:00",
+  "due_at": "2026-11-01T18:00:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -205,7 +289,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Research Methods Seminar"
+  "course_key": "Research Methods Seminar",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-20",
@@ -214,10 +310,10 @@
   "course_name": "Lab Block A (Campus Room 2)",
   "title": "Graduate Writing Lounge",
   "kind": "event",
-  "starts_at": "2026-10-05T16:00:00+00:00",
-  "due_at": "2026-10-05T16:00:00+00:00",
+  "starts_at": "2026-11-02T16:00:00+00:00",
+  "due_at": "2026-11-02T16:00:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -231,7 +327,19 @@
   "campus": true,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Lab Block A (Campus Room 2)"
+  "course_key": "Lab Block A (Campus Room 2)",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-5",
@@ -240,10 +348,10 @@
   "course_name": "Statistical Learning",
   "title": "Quiz 2 - Hypothesis testing",
   "kind": "quiz",
-  "starts_at": "2026-10-06T03:59:00+00:00",
-  "due_at": "2026-10-06T03:59:00+00:00",
+  "starts_at": "2026-11-03T03:59:00+00:00",
+  "due_at": "2026-11-03T03:59:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -257,7 +365,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Statistical Learning"
+  "course_key": "Statistical Learning",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-6",
@@ -266,10 +386,10 @@
   "course_name": "Data Engineering",
   "title": "Assignment 1 - ETL pipeline",
   "kind": "assignment",
-  "starts_at": "2026-10-08T03:59:00+00:00",
-  "due_at": "2026-10-08T03:59:00+00:00",
+  "starts_at": "2026-11-05T03:59:00+00:00",
+  "due_at": "2026-11-05T03:59:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -283,7 +403,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Data Engineering"
+  "course_key": "Data Engineering",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-17",
@@ -292,10 +424,10 @@
   "course_name": "Statistical Learning",
   "title": "Week 5 - Available",
   "kind": "event",
-  "starts_at": "2026-10-08T21:00:00+00:00",
-  "due_at": "2026-10-08T21:00:00+00:00",
+  "starts_at": "2026-11-05T21:00:00+00:00",
+  "due_at": "2026-11-05T21:00:00+00:00",
   "description": "Modules:\nWeek 5 - Available\n\n\nView event - https://courses.example.org/calendar/event/1",
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -309,7 +441,19 @@
   "campus": false,
   "d2l_tool": "module",
   "d2l_url": null,
-  "course_key": "Statistical Learning"
+  "course_key": "Statistical Learning",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-21",
@@ -318,10 +462,10 @@
   "course_name": "Online Lab (Video)",
   "title": "Career Planning Workshop (online)",
   "kind": "event",
-  "starts_at": "2026-10-08T22:00:00+00:00",
-  "due_at": "2026-10-08T22:00:00+00:00",
+  "starts_at": "2026-11-05T22:00:00+00:00",
+  "due_at": "2026-11-05T22:00:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -335,7 +479,19 @@
   "campus": true,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Online Lab (Video)"
+  "course_key": "Online Lab (Video)",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-7",
@@ -344,10 +500,10 @@
   "course_name": "Intro to Data Science",
   "title": "Lecture 6 - Tree ensembles",
   "kind": "lecture",
-  "starts_at": "2026-10-09T14:00:00+00:00",
-  "due_at": "2026-10-09T14:00:00+00:00",
+  "starts_at": "2026-11-06T14:00:00+00:00",
+  "due_at": "2026-11-06T14:00:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -361,7 +517,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Intro to Data Science"
+  "course_key": "Intro to Data Science",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-23",
@@ -370,10 +538,10 @@
   "course_name": "Academic Integrity",
   "title": "Integrity quiz",
   "kind": "quiz",
-  "starts_at": "2026-10-10T03:59:00+00:00",
-  "due_at": "2026-10-10T03:59:00+00:00",
+  "starts_at": "2026-11-07T03:59:00+00:00",
+  "due_at": "2026-11-07T03:59:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -387,7 +555,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Academic Integrity"
+  "course_key": "Academic Integrity",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-8",
@@ -396,10 +576,10 @@
   "course_name": "Statistical Learning",
   "title": "Midterm",
   "kind": "exam",
-  "starts_at": "2026-10-11T22:00:00+00:00",
-  "due_at": "2026-10-11T22:00:00+00:00",
+  "starts_at": "2026-11-08T22:00:00+00:00",
+  "due_at": "2026-11-08T22:00:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -413,7 +593,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Statistical Learning"
+  "course_key": "Statistical Learning",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-19",
@@ -422,10 +614,10 @@
   "course_name": "Data Engineering",
   "title": "Lab 2 - Due",
   "kind": "assignment",
-  "starts_at": "2026-10-13T03:59:00+00:00",
-  "due_at": "2026-10-13T03:59:00+00:00",
+  "starts_at": "2026-11-10T03:59:00+00:00",
+  "due_at": "2026-11-10T03:59:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -434,12 +626,24 @@
   "score": null,
   "grade_source": null,
   "role": "deadline",
-  "available_at": "2026-10-06T13:00:00+00:00",
+  "available_at": "2026-11-03T13:00:00+00:00",
   "reviewed": false,
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Data Engineering"
+  "course_key": "Data Engineering",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-9",
@@ -448,10 +652,10 @@
   "course_name": "Intro to Data Science",
   "title": "Assignment 2 - Model selection",
   "kind": "assignment",
-  "starts_at": "2026-10-14T03:59:00+00:00",
-  "due_at": "2026-10-14T03:59:00+00:00",
+  "starts_at": "2026-11-11T03:59:00+00:00",
+  "due_at": "2026-11-11T03:59:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -465,7 +669,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Intro to Data Science"
+  "course_key": "Intro to Data Science",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-10",
@@ -474,10 +690,10 @@
   "course_name": "Data Engineering",
   "title": "Quiz 3 - SQL optimisation",
   "kind": "quiz",
-  "starts_at": "2026-10-16T03:59:00+00:00",
-  "due_at": "2026-10-16T03:59:00+00:00",
+  "starts_at": "2026-11-13T03:59:00+00:00",
+  "due_at": "2026-11-13T03:59:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -491,7 +707,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Data Engineering"
+  "course_key": "Data Engineering",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-22",
@@ -500,10 +728,10 @@
   "course_name": "Lab Block A (Campus Room 2)",
   "title": "Graduate Studies Fair",
   "kind": "event",
-  "starts_at": "2026-10-16T14:00:00+00:00",
-  "due_at": "2026-10-16T14:00:00+00:00",
+  "starts_at": "2026-11-13T14:00:00+00:00",
+  "due_at": "2026-11-13T14:00:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -517,7 +745,19 @@
   "campus": true,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Lab Block A (Campus Room 2)"
+  "course_key": "Lab Block A (Campus Room 2)",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-11",
@@ -526,10 +766,10 @@
   "course_name": "Research Methods Seminar",
   "title": "Literature review",
   "kind": "assignment",
-  "starts_at": "2026-10-20T03:59:00+00:00",
-  "due_at": "2026-10-20T03:59:00+00:00",
+  "starts_at": "2026-11-17T03:59:00+00:00",
+  "due_at": "2026-11-17T03:59:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -543,7 +783,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Research Methods Seminar"
+  "course_key": "Research Methods Seminar",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-12",
@@ -552,10 +804,10 @@
   "course_name": "Intro to Data Science",
   "title": "Midterm",
   "kind": "exam",
-  "starts_at": "2026-10-24T13:00:00+00:00",
-  "due_at": "2026-10-24T13:00:00+00:00",
+  "starts_at": "2026-11-21T13:00:00+00:00",
+  "due_at": "2026-11-21T13:00:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -569,7 +821,19 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Intro to Data Science"
+  "course_key": "Intro to Data Science",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  },
  {
   "uid": "sample-13",
@@ -578,10 +842,10 @@
   "course_name": "Data Engineering",
   "title": "Project milestone 1",
   "kind": "assignment",
-  "starts_at": "2026-10-31T03:59:00+00:00",
-  "due_at": "2026-10-31T03:59:00+00:00",
+  "starts_at": "2026-11-28T03:59:00+00:00",
+  "due_at": "2026-11-28T03:59:00+00:00",
   "description": null,
-  "first_seen": "2026-09-28T16:29:56.892581+00:00",
+  "first_seen": "2026-10-26T13:23:25.867542+00:00",
   "done": false,
   "removed": false,
   "weight_pct": null,
@@ -595,6 +859,18 @@
   "campus": false,
   "d2l_tool": null,
   "d2l_url": null,
-  "course_key": "Data Engineering"
+  "course_key": "Data Engineering",
+  "source": "d2l",
+  "source_note": null,
+  "progress": {
+   "status": "not_started",
+   "note": "",
+   "note_updated_at": null,
+   "parts": {
+    "done": 0,
+    "total": 0,
+    "at": null
+   }
+  }
  }
 ]

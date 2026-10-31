@@ -1,0 +1,88 @@
+{
+ "id": 1,
+ "created_at": "2026-10-30T17:23:25.867542+00:00",
+ "job_id": "sample:pulse labs:1",
+ "scout_result_id": null,
+ "company": "Pulse Labs",
+ "title": "Data Scientist, New Grad (Wearables)",
+ "url": "https://example.org/sample",
+ "apply_url": "https://example.org/sample",
+ "status": "filled",
+ "has_resume": true,
+ "has_cover": true,
+ "cover_letter": "Dear Pulse Labs hiring team,\n\nI'm applying for the Data Scientist, New Grad (Wearables) role. Over the past year I built a sleep and heart-rate dashboard that combines wearable exports, and an end-to-end churn model with SQL features and SHAP explanations.\n\nI'd bring the same habits to your team: clean pipelines, honest evaluation, and plain-language results.\n\nThank you for your time,\nSam Rivera",
+ "cover_letter_needed": "optional",
+ "choice": {
+  "projects": [
+   {
+    "id": "sleep-dashboard",
+    "bullets": [
+     {
+      "text": "Built a dashboard that combines sleep, HRV and workout data from two wearable exports",
+      "sources": [
+       "proj.sleep.1"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "churn-model",
+    "bullets": [
+     {
+      "text": "Flagged 91% of churned customers with XGBoost and explained each prediction with SHAP",
+      "sources": [
+       "proj.churn.2"
+      ]
+     }
+    ]
+   }
+  ],
+  "experience": [],
+  "skills": {
+   "Data": [
+    "Python",
+    "SQL",
+    "pandas"
+   ],
+   "ML": [
+    "scikit-learn",
+    "XGBoost",
+    "SHAP"
+   ]
+  },
+  "emphasis": [
+   "Wearables data project first",
+   "SQL feature engineering",
+   "Explainable models"
+  ],
+  "gaps": [
+   "Signal processing",
+   "AWS"
+  ]
+ },
+ "notes": [
+  "Changed '93% recall' to '91%': the profile says 91%",
+  "Dropped 'Kubernetes': not in the profile"
+ ],
+ "warnings": [],
+ "fill_report": {
+  "state": "filled",
+  "url": "https://example.org/sample",
+  "filled": [
+   "First name",
+   "Last name",
+   "Email",
+   "LinkedIn",
+   "Resume (PDF)",
+   "Cover letter (PDF)"
+  ],
+  "left_for_you": [
+   "Are you legally able to work in Canada?",
+   "Earliest start date"
+  ],
+  "failed": []
+ },
+ "filled_at": "2026-10-30T18:23:25.867542+00:00",
+ "submitted_at": null,
+ "folder": null
+}

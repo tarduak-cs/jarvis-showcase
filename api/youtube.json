@@ -1,0 +1,537 @@
+{
+ "has_key": true,
+ "listed": [
+  "@sample-verse-a-day",
+  "@sample-pocket-physics"
+ ],
+ "pending": [],
+ "channels": [
+  {
+   "channel_id": "UCsampleverse0000000000",
+   "ref": "@sample-verse-a-day",
+   "title": "Verse a Day",
+   "metricool_brand": 1000,
+   "youtube_title": "Verse a Day",
+   "handle": "@sample-verse-a-day",
+   "url": "https://example.org/sample",
+   "thumbnail_url": null,
+   "last_checked": "2026-10-31T11:23:26.022153Z",
+   "error": null,
+   "views": 64100,
+   "subscribers": 584,
+   "subscribers_hidden": false,
+   "videos": 26,
+   "snapshots": 240,
+   "first_snapshot": "2026-10-01T13:23:26.022153Z",
+   "delta_24h": {
+    "views": 900,
+    "subscribers": 6,
+    "videos": 0
+   },
+   "delta_7d": {
+    "views": 6300,
+    "subscribers": 42,
+    "videos": 3
+   },
+   "daily": [
+    {
+     "date": "2026-10-02",
+     "views": 38000,
+     "subscribers": 410,
+     "videos": 12
+    },
+    {
+     "date": "2026-10-03",
+     "views": 38900,
+     "subscribers": 416,
+     "videos": 12
+    },
+    {
+     "date": "2026-10-04",
+     "views": 39800,
+     "subscribers": 422,
+     "videos": 13
+    },
+    {
+     "date": "2026-10-05",
+     "views": 40700,
+     "subscribers": 428,
+     "videos": 13
+    },
+    {
+     "date": "2026-10-06",
+     "views": 41600,
+     "subscribers": 434,
+     "videos": 14
+    },
+    {
+     "date": "2026-10-07",
+     "views": 42500,
+     "subscribers": 440,
+     "videos": 14
+    },
+    {
+     "date": "2026-10-08",
+     "views": 43400,
+     "subscribers": 446,
+     "videos": 15
+    },
+    {
+     "date": "2026-10-09",
+     "views": 44300,
+     "subscribers": 452,
+     "videos": 15
+    },
+    {
+     "date": "2026-10-10",
+     "views": 45200,
+     "subscribers": 458,
+     "videos": 16
+    },
+    {
+     "date": "2026-10-11",
+     "views": 46100,
+     "subscribers": 464,
+     "videos": 16
+    },
+    {
+     "date": "2026-10-12",
+     "views": 47000,
+     "subscribers": 470,
+     "videos": 17
+    },
+    {
+     "date": "2026-10-13",
+     "views": 47900,
+     "subscribers": 476,
+     "videos": 17
+    },
+    {
+     "date": "2026-10-14",
+     "views": 48800,
+     "subscribers": 482,
+     "videos": 18
+    },
+    {
+     "date": "2026-10-15",
+     "views": 49700,
+     "subscribers": 488,
+     "videos": 18
+    },
+    {
+     "date": "2026-10-16",
+     "views": 50600,
+     "subscribers": 494,
+     "videos": 19
+    },
+    {
+     "date": "2026-10-17",
+     "views": 51500,
+     "subscribers": 500,
+     "videos": 19
+    },
+    {
+     "date": "2026-10-18",
+     "views": 52400,
+     "subscribers": 506,
+     "videos": 20
+    },
+    {
+     "date": "2026-10-19",
+     "views": 53300,
+     "subscribers": 512,
+     "videos": 20
+    },
+    {
+     "date": "2026-10-20",
+     "views": 54200,
+     "subscribers": 518,
+     "videos": 21
+    },
+    {
+     "date": "2026-10-21",
+     "views": 55100,
+     "subscribers": 524,
+     "videos": 21
+    },
+    {
+     "date": "2026-10-22",
+     "views": 56000,
+     "subscribers": 530,
+     "videos": 22
+    },
+    {
+     "date": "2026-10-23",
+     "views": 56900,
+     "subscribers": 536,
+     "videos": 22
+    },
+    {
+     "date": "2026-10-24",
+     "views": 57800,
+     "subscribers": 542,
+     "videos": 23
+    },
+    {
+     "date": "2026-10-25",
+     "views": 58700,
+     "subscribers": 548,
+     "videos": 23
+    },
+    {
+     "date": "2026-10-26",
+     "views": 59600,
+     "subscribers": 554,
+     "videos": 24
+    },
+    {
+     "date": "2026-10-27",
+     "views": 60500,
+     "subscribers": 560,
+     "videos": 24
+    },
+    {
+     "date": "2026-10-28",
+     "views": 61400,
+     "subscribers": 566,
+     "videos": 25
+    },
+    {
+     "date": "2026-10-29",
+     "views": 62300,
+     "subscribers": 572,
+     "videos": 25
+    },
+    {
+     "date": "2026-10-30",
+     "views": 63200,
+     "subscribers": 578,
+     "videos": 26
+    },
+    {
+     "date": "2026-10-31",
+     "views": 64100,
+     "subscribers": 584,
+     "videos": 26
+    }
+   ],
+   "recent_videos": [
+    {
+     "video_id": "samplearjun0",
+     "title": "When your plan falls apart by Tuesday",
+     "url": "#",
+     "duration_s": 31,
+     "published_at": "2026-10-30T10:23:26.022153Z",
+     "thumbnail_url": null,
+     "views": 4120,
+     "likes": 211,
+     "comments": 18,
+     "views_24h": 1030
+    },
+    {
+     "video_id": "samplearjun1",
+     "title": "Stop rehearsing arguments in the shower",
+     "url": "#",
+     "duration_s": 34,
+     "published_at": "2026-10-29T10:23:26.022153Z",
+     "thumbnail_url": null,
+     "views": 9870,
+     "likes": 640,
+     "comments": 52,
+     "views_24h": 1974
+    },
+    {
+     "video_id": "samplearjun2",
+     "title": "The 10-second rule for anger",
+     "url": "#",
+     "duration_s": 37,
+     "published_at": "2026-10-28T10:23:26.022153Z",
+     "thumbnail_url": null,
+     "views": 2310,
+     "likes": 140,
+     "comments": 9,
+     "views_24h": 385
+    },
+    {
+     "video_id": "samplearjun3",
+     "title": "Why comparing ruins a good day",
+     "url": "#",
+     "duration_s": 40,
+     "published_at": "2026-10-27T10:23:26.022153Z",
+     "thumbnail_url": null,
+     "views": 15400,
+     "likes": 1120,
+     "comments": 87,
+     "views_24h": 2200
+    }
+   ]
+  },
+  {
+   "channel_id": "UCsamplephysics00000000",
+   "ref": "@sample-pocket-physics",
+   "title": "Pocket Physics",
+   "metricool_brand": 1001,
+   "youtube_title": "Pocket Physics",
+   "handle": "@sample-pocket-physics",
+   "url": "https://example.org/sample",
+   "thumbnail_url": null,
+   "last_checked": "2026-10-31T11:23:26.022153Z",
+   "error": null,
+   "views": 89130,
+   "subscribers": 1012,
+   "subscribers_hidden": false,
+   "videos": 34,
+   "snapshots": 240,
+   "first_snapshot": "2026-10-01T13:23:26.022153Z",
+   "delta_24h": {
+    "views": 970,
+    "subscribers": 8,
+    "videos": 0
+   },
+   "delta_7d": {
+    "views": 6790,
+    "subscribers": 56,
+    "videos": 3
+   },
+   "daily": [
+    {
+     "date": "2026-10-02",
+     "views": 61000,
+     "subscribers": 780,
+     "videos": 20
+    },
+    {
+     "date": "2026-10-03",
+     "views": 61970,
+     "subscribers": 788,
+     "videos": 20
+    },
+    {
+     "date": "2026-10-04",
+     "views": 62940,
+     "subscribers": 796,
+     "videos": 21
+    },
+    {
+     "date": "2026-10-05",
+     "views": 63910,
+     "subscribers": 804,
+     "videos": 21
+    },
+    {
+     "date": "2026-10-06",
+     "views": 64880,
+     "subscribers": 812,
+     "videos": 22
+    },
+    {
+     "date": "2026-10-07",
+     "views": 65850,
+     "subscribers": 820,
+     "videos": 22
+    },
+    {
+     "date": "2026-10-08",
+     "views": 66820,
+     "subscribers": 828,
+     "videos": 23
+    },
+    {
+     "date": "2026-10-09",
+     "views": 67790,
+     "subscribers": 836,
+     "videos": 23
+    },
+    {
+     "date": "2026-10-10",
+     "views": 68760,
+     "subscribers": 844,
+     "videos": 24
+    },
+    {
+     "date": "2026-10-11",
+     "views": 69730,
+     "subscribers": 852,
+     "videos": 24
+    },
+    {
+     "date": "2026-10-12",
+     "views": 70700,
+     "subscribers": 860,
+     "videos": 25
+    },
+    {
+     "date": "2026-10-13",
+     "views": 71670,
+     "subscribers": 868,
+     "videos": 25
+    },
+    {
+     "date": "2026-10-14",
+     "views": 72640,
+     "subscribers": 876,
+     "videos": 26
+    },
+    {
+     "date": "2026-10-15",
+     "views": 73610,
+     "subscribers": 884,
+     "videos": 26
+    },
+    {
+     "date": "2026-10-16",
+     "views": 74580,
+     "subscribers": 892,
+     "videos": 27
+    },
+    {
+     "date": "2026-10-17",
+     "views": 75550,
+     "subscribers": 900,
+     "videos": 27
+    },
+    {
+     "date": "2026-10-18",
+     "views": 76520,
+     "subscribers": 908,
+     "videos": 28
+    },
+    {
+     "date": "2026-10-19",
+     "views": 77490,
+     "subscribers": 916,
+     "videos": 28
+    },
+    {
+     "date": "2026-10-20",
+     "views": 78460,
+     "subscribers": 924,
+     "videos": 29
+    },
+    {
+     "date": "2026-10-21",
+     "views": 79430,
+     "subscribers": 932,
+     "videos": 29
+    },
+    {
+     "date": "2026-10-22",
+     "views": 80400,
+     "subscribers": 940,
+     "videos": 30
+    },
+    {
+     "date": "2026-10-23",
+     "views": 81370,
+     "subscribers": 948,
+     "videos": 30
+    },
+    {
+     "date": "2026-10-24",
+     "views": 82340,
+     "subscribers": 956,
+     "videos": 31
+    },
+    {
+     "date": "2026-10-25",
+     "views": 83310,
+     "subscribers": 964,
+     "videos": 31
+    },
+    {
+     "date": "2026-10-26",
+     "views": 84280,
+     "subscribers": 972,
+     "videos": 32
+    },
+    {
+     "date": "2026-10-27",
+     "views": 85250,
+     "subscribers": 980,
+     "videos": 32
+    },
+    {
+     "date": "2026-10-28",
+     "views": 86220,
+     "subscribers": 988,
+     "videos": 33
+    },
+    {
+     "date": "2026-10-29",
+     "views": 87190,
+     "subscribers": 996,
+     "videos": 33
+    },
+    {
+     "date": "2026-10-30",
+     "views": 88160,
+     "subscribers": 1004,
+     "videos": 34
+    },
+    {
+     "date": "2026-10-31",
+     "views": 89130,
+     "subscribers": 1012,
+     "videos": 34
+    }
+   ],
+   "recent_videos": [
+    {
+     "video_id": "samplehmw0",
+     "title": "Why does ice float?",
+     "url": "#",
+     "duration_s": 31,
+     "published_at": "2026-10-30T10:23:26.022153Z",
+     "thumbnail_url": null,
+     "views": 6230,
+     "likes": 302,
+     "comments": 21,
+     "views_24h": 1557
+    },
+    {
+     "video_id": "samplehmw1",
+     "title": "What if the Moon disappeared?",
+     "url": "#",
+     "duration_s": 34,
+     "published_at": "2026-10-29T10:23:26.022153Z",
+     "thumbnail_url": null,
+     "views": 21800,
+     "likes": 1490,
+     "comments": 133,
+     "views_24h": 4360
+    },
+    {
+     "video_id": "samplehmw2",
+     "title": "Why do your ears pop on a plane?",
+     "url": "#",
+     "duration_s": 37,
+     "published_at": "2026-10-28T10:23:26.022153Z",
+     "thumbnail_url": null,
+     "views": 3880,
+     "likes": 190,
+     "comments": 14,
+     "views_24h": 646
+    },
+    {
+     "video_id": "samplehmw3",
+     "title": "Why is the sky dark at night?",
+     "url": "#",
+     "duration_s": 40,
+     "published_at": "2026-10-27T10:23:26.022153Z",
+     "thumbnail_url": null,
+     "views": 11200,
+     "likes": 760,
+     "comments": 58,
+     "views_24h": 1600
+    }
+   ]
+  }
+ ],
+ "totals": {
+  "views": 153230,
+  "subscribers": 1596,
+  "videos": 60
+ },
+ "last_checked": "2026-10-31T11:23:26.022153Z",
+ "paused": []
+}

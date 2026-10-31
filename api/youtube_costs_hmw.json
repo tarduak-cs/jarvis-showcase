@@ -1,0 +1,63 @@
+{
+ "episodes": [
+  {
+   "episode": "PP-014",
+   "usd": 0.62,
+   "by_tool": {
+    "voice": 0.18,
+    "images": 0.31,
+    "clips": 0.13
+   },
+   "youtube": "scheduled",
+   "publish_at": "2026-11-01T20:00:00Z",
+   "youtube_url": null
+  },
+  {
+   "episode": "PP-013",
+   "usd": 0.73,
+   "by_tool": {
+    "voice": 0.18,
+    "images": 0.39,
+    "clips": 0.16
+   },
+   "youtube": "posted",
+   "publish_at": "2026-10-31T20:00:00Z",
+   "youtube_url": null
+  },
+  {
+   "episode": "PP-012",
+   "usd": 0.84,
+   "by_tool": {
+    "voice": 0.18,
+    "images": 0.47,
+    "clips": 0.19
+   },
+   "youtube": "posted",
+   "publish_at": "2026-10-30T20:00:00Z",
+   "youtube_url": null
+  },
+  {
+   "episode": "PP-011",
+   "usd": 0.95,
+   "by_tool": {
+    "voice": 0.18,
+    "images": 0.55,
+    "clips": 0.22
+   },
+   "youtube": "posted",
+   "publish_at": "2026-10-29T20:00:00Z",
+   "youtube_url": null
+  },
+  {
+   "episode": "PP-015",
+   "usd": 0.58,
+   "by_tool": {
+    "voice": 0.17,
+    "images": 0.41
+   },
+   "youtube": "not uploaded",
+   "publish_at": null,
+   "youtube_url": null
+  }
+ ]
+}

@@ -9,6 +9,7 @@
   "campus": false,
   "campus_override": null,
   "outline": null,
+  "missing": [],
   "files": null,
   "items_without_weight": 5
  },
@@ -22,6 +23,7 @@
   "campus": false,
   "campus_override": null,
   "outline": null,
+  "missing": [],
   "files": null,
   "items_without_weight": 3
  },
@@ -35,6 +37,7 @@
   "campus": false,
   "campus_override": null,
   "outline": null,
+  "missing": [],
   "files": null,
   "items_without_weight": 2
  },
@@ -48,6 +51,7 @@
   "campus": false,
   "campus_override": null,
   "outline": null,
+  "missing": [],
   "files": null,
   "items_without_weight": 4
  },
@@ -61,6 +65,7 @@
   "campus": true,
   "campus_override": null,
   "outline": null,
+  "missing": [],
   "files": null,
   "items_without_weight": 0
  },
@@ -74,6 +79,7 @@
   "campus": true,
   "campus_override": null,
   "outline": null,
+  "missing": [],
   "files": null,
   "items_without_weight": 0
  },
@@ -87,6 +93,7 @@
   "campus": false,
   "campus_override": null,
   "outline": null,
+  "missing": [],
   "files": null,
   "items_without_weight": 1
  }

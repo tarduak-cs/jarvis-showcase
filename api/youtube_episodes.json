@@ -1,0 +1,256 @@
+{
+ "configured": true,
+ "dir": "",
+ "generated_at": "2026-10-31T08:23:26.022153Z",
+ "yt_analytics_fetched_at": "2026-10-31T08:23:26.022153Z",
+ "social_fetched_at": "2026-10-31T10:23:26.022153Z",
+ "elevenlabs_priced": true,
+ "episodes": [
+  {
+   "episode": "VD-023",
+   "title": "Saying no without the guilt",
+   "publish_at": "2026-11-01T20:00:00Z",
+   "status": "scheduled",
+   "youtube_id": null,
+   "drive_url": null,
+   "platforms": {
+    "youtube": "scheduled",
+    "instagram": "scheduled",
+    "tiktok": "scheduled"
+   },
+   "cost": {
+    "fal_usd": 0.71,
+    "fal_ledger_usd": 0.71,
+    "fal_items": 7,
+    "elevenlabs_chars": 455,
+    "elevenlabs_usd": 0.33,
+    "extra_usd": null,
+    "extra": [],
+    "total_usd": 1.04,
+    "complete": true
+   },
+   "youtube": {
+    "views": null,
+    "likes": null,
+    "comments": null,
+    "url": null,
+    "avg_view_pct": null,
+    "avg_view_s": null,
+    "watch_min": null,
+    "subs_gained": null,
+    "shares": null
+   },
+   "instagram": null,
+   "tiktok": null,
+   "views_total": null,
+   "cost_per_1k_views": null
+  },
+  {
+   "episode": "VD-022",
+   "title": "When your plan falls apart by Tuesday",
+   "publish_at": "2026-10-30T20:00:00Z",
+   "status": "posted",
+   "youtube_id": "sample0",
+   "drive_url": null,
+   "platforms": {
+    "youtube": "posted",
+    "instagram": "posted",
+    "tiktok": "posted"
+   },
+   "cost": {
+    "fal_usd": 0.56,
+    "fal_ledger_usd": 0.56,
+    "fal_items": 6,
+    "elevenlabs_chars": 420,
+    "elevenlabs_usd": 0.28,
+    "extra_usd": 0.09,
+    "extra": [
+     {
+      "what": "music licence (share)",
+      "usd": 0.09
+     }
+    ],
+    "total_usd": 0.94,
+    "complete": true
+   },
+   "youtube": {
+    "views": 4120,
+    "likes": 211,
+    "comments": 18,
+    "url": null,
+    "avg_view_pct": 71.0,
+    "avg_view_s": 22.4,
+    "watch_min": 1524.4,
+    "subs_gained": 5,
+    "shares": 9
+   },
+   "instagram": {
+    "views": 8240,
+    "likes": 422
+   },
+   "tiktok": {
+    "views": 12360,
+    "likes": 633
+   },
+   "views_total": 24720,
+   "cost_per_1k_views": 0.038
+  },
+  {
+   "episode": "VD-021",
+   "title": "Stop rehearsing arguments in the shower",
+   "publish_at": "2026-10-29T20:00:00Z",
+   "status": "posted",
+   "youtube_id": "sample1",
+   "drive_url": null,
+   "platforms": {
+    "youtube": "posted",
+    "instagram": "posted",
+    "tiktok": "posted"
+   },
+   "cost": {
+    "fal_usd": 0.67,
+    "fal_ledger_usd": 0.67,
+    "fal_items": 7,
+    "elevenlabs_chars": 450,
+    "elevenlabs_usd": 0.33,
+    "extra_usd": 0.11,
+    "extra": [
+     {
+      "what": "music licence (share)",
+      "usd": 0.11
+     }
+    ],
+    "total_usd": 1.11,
+    "complete": true
+   },
+   "youtube": {
+    "views": 9870,
+    "likes": 640,
+    "comments": 52,
+    "url": null,
+    "avg_view_pct": 67.0,
+    "avg_view_s": 21.4,
+    "watch_min": 3651.9,
+    "subs_gained": 8,
+    "shares": 10
+   },
+   "instagram": {
+    "views": 19740,
+    "likes": 1280
+   },
+   "tiktok": {
+    "views": 29610,
+    "likes": 1920
+   },
+   "views_total": 59220,
+   "cost_per_1k_views": 0.019
+  },
+  {
+   "episode": "VD-020",
+   "title": "The 10-second rule for anger",
+   "publish_at": "2026-10-28T20:00:00Z",
+   "status": "posted",
+   "youtube_id": "sample2",
+   "drive_url": null,
+   "platforms": {
+    "youtube": "posted",
+    "instagram": "posted",
+    "tiktok": "posted"
+   },
+   "cost": {
+    "fal_usd": 0.77,
+    "fal_ledger_usd": 0.77,
+    "fal_items": 8,
+    "elevenlabs_chars": 480,
+    "elevenlabs_usd": 0.38,
+    "extra_usd": 0.13,
+    "extra": [
+     {
+      "what": "music licence (share)",
+      "usd": 0.13
+     }
+    ],
+    "total_usd": 1.28,
+    "complete": true
+   },
+   "youtube": {
+    "views": 2310,
+    "likes": 140,
+    "comments": 9,
+    "url": null,
+    "avg_view_pct": 63.0,
+    "avg_view_s": 20.4,
+    "watch_min": 854.7,
+    "subs_gained": 11,
+    "shares": 11
+   },
+   "instagram": {
+    "views": 4620,
+    "likes": 280
+   },
+   "tiktok": {
+    "views": 6930,
+    "likes": 420
+   },
+   "views_total": 13860,
+   "cost_per_1k_views": 0.092
+  },
+  {
+   "episode": "VD-019",
+   "title": "Why comparing ruins a good day",
+   "publish_at": "2026-10-27T20:00:00Z",
+   "status": "posted",
+   "youtube_id": "sample3",
+   "drive_url": null,
+   "platforms": {
+    "youtube": "posted",
+    "instagram": "posted",
+    "tiktok": "posted"
+   },
+   "cost": {
+    "fal_usd": 0.87,
+    "fal_ledger_usd": 0.87,
+    "fal_items": 9,
+    "elevenlabs_chars": 510,
+    "elevenlabs_usd": 0.43,
+    "extra_usd": 0.14,
+    "extra": [
+     {
+      "what": "music licence (share)",
+      "usd": 0.14
+     }
+    ],
+    "total_usd": 1.45,
+    "complete": true
+   },
+   "youtube": {
+    "views": 15400,
+    "likes": 1120,
+    "comments": 87,
+    "url": null,
+    "avg_view_pct": 59.0,
+    "avg_view_s": 19.4,
+    "watch_min": 5698.0,
+    "subs_gained": 14,
+    "shares": 12
+   },
+   "instagram": {
+    "views": 30800,
+    "likes": 2240
+   },
+   "tiktok": {
+    "views": 46200,
+    "likes": 3360
+   },
+   "views_total": 92400,
+   "cost_per_1k_views": 0.016
+  }
+ ],
+ "totals": {
+  "spent_usd": 5.82,
+  "views": 190200,
+  "episodes": 5,
+  "avg_cost_usd": 1.16,
+  "cost_per_1k_views": 0.025
+ }
+}

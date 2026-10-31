@@ -1,0 +1,297 @@
+{
+ "summary": {
+  "total_cost_usd": 11.4126,
+  "month_cost_usd": 11.4126,
+  "today_cost_usd": 0.4538,
+  "total_calls": 228,
+  "total_tokens": 1714620,
+  "unpriced_calls": 3
+ },
+ "providers": {
+  "claude": {
+   "requests": 195,
+   "input_tokens": 1491600,
+   "output_tokens": 117120,
+   "cost_usd": 11.0826,
+   "unpriced_calls": 0,
+   "actual_calls": 180,
+   "estimated_calls": 15,
+   "metadata_only_calls": 0
+  },
+  "openai": {
+   "requests": 30,
+   "input_tokens": 72000,
+   "output_tokens": 27000,
+   "cost_usd": 0.33,
+   "unpriced_calls": 0,
+   "actual_calls": 30,
+   "estimated_calls": 0,
+   "metadata_only_calls": 0
+  },
+  "xai": {
+   "requests": 3,
+   "input_tokens": 5400,
+   "output_tokens": 1500,
+   "cost_usd": 0.0,
+   "unpriced_calls": 3,
+   "actual_calls": 3,
+   "estimated_calls": 0,
+   "metadata_only_calls": 0
+  }
+ },
+ "daily": [
+  {
+   "date": "2026-10-02",
+   "cost_usd": 0.1476,
+   "tokens": 32520,
+   "by_provider": {
+    "claude": 0.1476
+   }
+  },
+  {
+   "date": "2026-10-03",
+   "cost_usd": 0.7172,
+   "tokens": 100240,
+   "by_provider": {
+    "openai": 0.066,
+    "claude": 0.6512
+   }
+  },
+  {
+   "date": "2026-10-04",
+   "cost_usd": 0.0948,
+   "tokens": 24360,
+   "by_provider": {
+    "claude": 0.0948
+   }
+  },
+  {
+   "date": "2026-10-05",
+   "cost_usd": 0.5512,
+   "tokens": 80440,
+   "by_provider": {
+    "claude": 0.5512
+   }
+  },
+  {
+   "date": "2026-10-06",
+   "cost_usd": 0.1476,
+   "tokens": 32520,
+   "by_provider": {
+    "claude": 0.1476
+   }
+  },
+  {
+   "date": "2026-10-07",
+   "cost_usd": 0.7012,
+   "tokens": 80440,
+   "by_provider": {
+    "claude": 0.7012
+   }
+  },
+  {
+   "date": "2026-10-08",
+   "cost_usd": 0.0948,
+   "tokens": 26660,
+   "by_provider": {
+    "claude": 0.0948
+   }
+  },
+  {
+   "date": "2026-10-09",
+   "cost_usd": 0.6012,
+   "tokens": 80440,
+   "by_provider": {
+    "claude": 0.6012
+   }
+  },
+  {
+   "date": "2026-10-10",
+   "cost_usd": 0.2136,
+   "tokens": 52320,
+   "by_provider": {
+    "openai": 0.066,
+    "claude": 0.1476
+   }
+  },
+  {
+   "date": "2026-10-11",
+   "cost_usd": 0.5012,
+   "tokens": 80440,
+   "by_provider": {
+    "claude": 0.5012
+   }
+  },
+  {
+   "date": "2026-10-12",
+   "cost_usd": 0.0948,
+   "tokens": 24360,
+   "by_provider": {
+    "claude": 0.0948
+   }
+  },
+  {
+   "date": "2026-10-13",
+   "cost_usd": 0.6512,
+   "tokens": 80440,
+   "by_provider": {
+    "claude": 0.6512
+   }
+  },
+  {
+   "date": "2026-10-14",
+   "cost_usd": 0.2286,
+   "tokens": 32520,
+   "by_provider": {
+    "claude": 0.2286
+   }
+  },
+  {
+   "date": "2026-10-15",
+   "cost_usd": 0.5248,
+   "tokens": 76360,
+   "by_provider": {
+    "claude": 0.5248
+   }
+  },
+  {
+   "date": "2026-10-16",
+   "cost_usd": 0.0948,
+   "tokens": 24360,
+   "by_provider": {
+    "claude": 0.0948
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "cost_usd": 0.7672,
+   "tokens": 100240,
+   "by_provider": {
+    "openai": 0.066,
+    "claude": 0.7012
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "cost_usd": 0.2286,
+   "tokens": 34820,
+   "by_provider": {
+    "claude": 0.2286
+   }
+  },
+  {
+   "date": "2026-10-19",
+   "cost_usd": 0.5748,
+   "tokens": 76360,
+   "by_provider": {
+    "claude": 0.5748
+   }
+  },
+  {
+   "date": "2026-10-20",
+   "cost_usd": 0.0948,
+   "tokens": 24360,
+   "by_provider": {
+    "claude": 0.0948
+   }
+  },
+  {
+   "date": "2026-10-21",
+   "cost_usd": 0.5012,
+   "tokens": 80440,
+   "by_provider": {
+    "claude": 0.5012
+   }
+  },
+  {
+   "date": "2026-10-22",
+   "cost_usd": 0.2286,
+   "tokens": 32520,
+   "by_provider": {
+    "claude": 0.2286
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "cost_usd": 0.6248,
+   "tokens": 76360,
+   "by_provider": {
+    "claude": 0.6248
+   }
+  },
+  {
+   "date": "2026-10-24",
+   "cost_usd": 0.1608,
+   "tokens": 44160,
+   "by_provider": {
+    "openai": 0.066,
+    "claude": 0.0948
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "cost_usd": 0.5512,
+   "tokens": 80440,
+   "by_provider": {
+    "claude": 0.5512
+   }
+  },
+  {
+   "date": "2026-10-26",
+   "cost_usd": 0.2286,
+   "tokens": 32520,
+   "by_provider": {
+    "claude": 0.2286
+   }
+  },
+  {
+   "date": "2026-10-27",
+   "cost_usd": 0.6748,
+   "tokens": 76360,
+   "by_provider": {
+    "claude": 0.6748
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "cost_usd": 0.0948,
+   "tokens": 26660,
+   "by_provider": {
+    "claude": 0.0948
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "cost_usd": 0.6012,
+   "tokens": 80440,
+   "by_provider": {
+    "claude": 0.6012
+   }
+  },
+  {
+   "date": "2026-10-30",
+   "cost_usd": 0.2286,
+   "tokens": 32520,
+   "by_provider": {
+    "claude": 0.2286
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "cost_usd": 0.4538,
+   "tokens": 77860,
+   "by_provider": {
+    "openai": 0.066,
+    "claude": 0.3878
+   }
+  }
+ ],
+ "budget": {
+  "monthly_limit_usd": 40.0,
+  "warning_pct": 80,
+  "spent_this_month_usd": 11.4126,
+  "remaining_usd": 28.5874,
+  "status": "ok"
+ },
+ "balances_available": false
+}

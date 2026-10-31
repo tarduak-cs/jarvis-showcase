@@ -1,0 +1,221 @@
+{
+ "fetched_at": "2026-10-31T10:23:26.022153Z",
+ "channels": {
+  "@sample-verse-a-day": {
+   "label": "Verse a Day",
+   "brand": 1000,
+   "handles": {
+    "youtube": "sample-verse-a-day",
+    "instagram": "sample.verse.a.day",
+    "tiktok": "sample.verse.a.day"
+   },
+   "platforms": {
+    "youtube": {
+     "followers": 520,
+     "views_7d": 7300,
+     "views_28d": 29000,
+     "days": 28,
+     "views_meaning": "views",
+     "videos": [
+      {
+       "published_at": "2026-10-30T13:23:26.022153Z",
+       "url": null,
+       "title": "When your plan falls apart by Tuesday",
+       "views": 8240,
+       "likes": 211
+      },
+      {
+       "published_at": "2026-10-29T13:23:26.022153Z",
+       "url": null,
+       "title": "Stop rehearsing arguments in the shower",
+       "views": 19740,
+       "likes": 640
+      },
+      {
+       "published_at": "2026-10-28T13:23:26.022153Z",
+       "url": null,
+       "title": "The 10-second rule for anger",
+       "views": 4620,
+       "likes": 140
+      }
+     ]
+    },
+    "instagram": {
+     "followers": 1240,
+     "views_7d": 18400,
+     "views_28d": 66000,
+     "days": 28,
+     "views_meaning": "views",
+     "videos": [
+      {
+       "published_at": "2026-10-30T13:23:26.022153Z",
+       "url": null,
+       "title": "When your plan falls apart by Tuesday",
+       "views": 8240,
+       "likes": 211
+      },
+      {
+       "published_at": "2026-10-29T13:23:26.022153Z",
+       "url": null,
+       "title": "Stop rehearsing arguments in the shower",
+       "views": 19740,
+       "likes": 640
+      },
+      {
+       "published_at": "2026-10-28T13:23:26.022153Z",
+       "url": null,
+       "title": "The 10-second rule for anger",
+       "views": 4620,
+       "likes": 140
+      }
+     ]
+    },
+    "tiktok": {
+     "followers": 2900,
+     "views_7d": 41000,
+     "views_28d": 152000,
+     "days": 28,
+     "views_meaning": "plays",
+     "videos": [
+      {
+       "published_at": "2026-10-30T13:23:26.022153Z",
+       "url": null,
+       "title": "When your plan falls apart by Tuesday",
+       "views": 12360,
+       "likes": 211
+      },
+      {
+       "published_at": "2026-10-29T13:23:26.022153Z",
+       "url": null,
+       "title": "Stop rehearsing arguments in the shower",
+       "views": 29610,
+       "likes": 640
+      },
+      {
+       "published_at": "2026-10-28T13:23:26.022153Z",
+       "url": null,
+       "title": "The 10-second rule for anger",
+       "views": 6930,
+       "likes": 140
+      }
+     ]
+    }
+   },
+   "totals": {
+    "followers": 4660,
+    "views_7d": 66700,
+    "views_28d": 247000
+   },
+   "errors": []
+  },
+  "@sample-pocket-physics": {
+   "label": "Pocket Physics",
+   "brand": 1001,
+   "handles": {
+    "youtube": "sample-pocket-physics",
+    "instagram": "sample.pocket.physics",
+    "tiktok": "sample.pocket.physics"
+   },
+   "platforms": {
+    "youtube": {
+     "followers": 820,
+     "views_7d": 9300,
+     "views_28d": 38000,
+     "days": 28,
+     "views_meaning": "views",
+     "videos": [
+      {
+       "published_at": "2026-10-30T13:23:26.022153Z",
+       "url": null,
+       "title": "Why does ice float?",
+       "views": 12460,
+       "likes": 302
+      },
+      {
+       "published_at": "2026-10-29T13:23:26.022153Z",
+       "url": null,
+       "title": "What if the Moon disappeared?",
+       "views": 43600,
+       "likes": 1490
+      },
+      {
+       "published_at": "2026-10-28T13:23:26.022153Z",
+       "url": null,
+       "title": "Why do your ears pop on a plane?",
+       "views": 7760,
+       "likes": 190
+      }
+     ]
+    },
+    "instagram": {
+     "followers": 1740,
+     "views_7d": 24400,
+     "views_28d": 81000,
+     "days": 28,
+     "views_meaning": "views",
+     "videos": [
+      {
+       "published_at": "2026-10-30T13:23:26.022153Z",
+       "url": null,
+       "title": "Why does ice float?",
+       "views": 12460,
+       "likes": 302
+      },
+      {
+       "published_at": "2026-10-29T13:23:26.022153Z",
+       "url": null,
+       "title": "What if the Moon disappeared?",
+       "views": 43600,
+       "likes": 1490
+      },
+      {
+       "published_at": "2026-10-28T13:23:26.022153Z",
+       "url": null,
+       "title": "Why do your ears pop on a plane?",
+       "views": 7760,
+       "likes": 190
+      }
+     ]
+    },
+    "tiktok": {
+     "followers": 3800,
+     "views_7d": 53000,
+     "views_28d": 192000,
+     "days": 28,
+     "views_meaning": "plays",
+     "videos": [
+      {
+       "published_at": "2026-10-30T13:23:26.022153Z",
+       "url": null,
+       "title": "Why does ice float?",
+       "views": 18690,
+       "likes": 302
+      },
+      {
+       "published_at": "2026-10-29T13:23:26.022153Z",
+       "url": null,
+       "title": "What if the Moon disappeared?",
+       "views": 65400,
+       "likes": 1490
+      },
+      {
+       "published_at": "2026-10-28T13:23:26.022153Z",
+       "url": null,
+       "title": "Why do your ears pop on a plane?",
+       "views": 11640,
+       "likes": 190
+      }
+     ]
+    }
+   },
+   "totals": {
+    "followers": 6360,
+    "views_7d": 86700,
+    "views_28d": 311000
+   },
+   "errors": []
+  }
+ },
+ "running": false,
+ "error": null
+}

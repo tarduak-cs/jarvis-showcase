@@ -1,0 +1,325 @@
+{
+ "channels": [
+  {
+   "key": "arjun",
+   "name": "Verse a Day",
+   "configured": true
+  },
+  {
+   "key": "hmw",
+   "name": "Pocket Physics",
+   "configured": true
+  }
+ ],
+ "gpt_configured": true,
+ "budget": {
+  "budget_usd": 5.0,
+  "spent_usd": 0.87,
+  "remaining_usd": 4.13,
+  "claude_usd": 0.79,
+  "gpt_usd": 0.08,
+  "gpt_calls": 12,
+  "gpt_unpriced_calls": 0,
+  "gpt_calls_cap": 40,
+  "week_start": "2026-10-26"
+ },
+ "runs": [
+  {
+   "id": 1,
+   "channel": "arjun",
+   "created_at": "2026-10-29T12:23:25.867542+00:00",
+   "finished_at": "2026-10-29T13:23:25.867542+00:00",
+   "status": "done",
+   "step": "done",
+   "trigger": "auto",
+   "seed": null,
+   "claude_cost_usd": 0.42,
+   "gpt_cost_usd": 0.066,
+   "claude_calls": 9,
+   "gpt_calls": 6,
+   "error": null
+  }
+ ],
+ "ideas": [
+  {
+   "id": 1,
+   "run_id": 1,
+   "channel": "arjun",
+   "created_at": "2026-10-29T13:23:25.867542+00:00",
+   "author": "claude",
+   "title": "Why rest feels like guilt",
+   "hook": "You finally sit down and your brain says you're being lazy.",
+   "angle": "everyday problem first, then the idea",
+   "source": "Stoic letters (paraphrased)",
+   "format": "short explainer",
+   "hook_type": "relatable",
+   "pitch": null,
+   "reviews": {
+    "claude": {
+     "hook": 9,
+     "fit": 8,
+     "novelty": 7,
+     "feasibility": 9,
+     "accuracy_risk": 2,
+     "comment": "Strong first line, easy to film."
+    },
+    "gpt": {
+     "hook": 8,
+     "fit": 8,
+     "novelty": 8,
+     "feasibility": 8,
+     "accuracy_risk": 3,
+     "comment": "Good, but the middle needs one concrete example."
+    }
+   },
+   "score": 8.6,
+   "refined": true,
+   "script": {
+    "title": "Why rest feels like guilt",
+    "hook": "You finally sit down and your brain says you're being lazy.",
+    "alt_hooks": [
+     "You finally sit down and your brain says you're being lazy?",
+     "Here's what's actually going on."
+    ],
+    "script": [
+     "You finally sit down and your brain says you're being lazy.",
+     "Here's the short version of why.",
+     "One line to remember it by.",
+     "Follow for tomorrow's."
+    ],
+    "word_count": 72,
+    "on_screen": [
+     "Why rest feels like guilt"
+    ],
+    "shots": [
+     {
+      "line": "You finally sit down and your brain says you're being lazy.",
+      "visual": "close-up, slow push in"
+     }
+    ],
+    "youtube_title": "Why rest feels like guilt",
+    "youtube_description": "Why rest feels like guilt (sample)",
+    "instagram_caption": "Why rest feels like guilt #sample",
+    "tiktok_caption": "Why rest feels like guilt #sample",
+    "pinned_comment": "What should the next one be?",
+    "sources": [
+     "https://example.org/sample-source"
+    ],
+    "accuracy_notes": "Claims checked against the cited source.",
+    "changes": [
+     "Hook shortened to one line",
+     "Removed a claim the fact check couldn't verify"
+    ],
+    "pushback": [
+     "Kept the callback line: it tested well before"
+    ]
+   },
+   "critique": {
+    "score": 8.6,
+    "verdict": "ship with small edits",
+    "rule_violations": [],
+    "accuracy_issues": [],
+    "retention_notes": [
+     "Payoff lands at 18 s, keep it there"
+    ],
+    "line_edits": [
+     {
+      "line": "Here's the short version of why.",
+      "better": "Short version:",
+      "why": "two words saved"
+     }
+    ]
+   },
+   "factcheck": {
+    "pass": true,
+    "issues": [],
+    "rule_violations": []
+   },
+   "status": "proposed",
+   "decision_note": null,
+   "decided_at": null,
+   "exported_to": null
+  },
+  {
+   "id": 2,
+   "run_id": 1,
+   "channel": "arjun",
+   "created_at": "2026-10-29T13:23:25.867542+00:00",
+   "author": "gpt",
+   "title": "The friend who only calls when they need something",
+   "hook": "You know the call before you pick up.",
+   "angle": "everyday problem first, then the idea",
+   "source": "Stoic letters (paraphrased)",
+   "format": "short explainer",
+   "hook_type": "relatable",
+   "pitch": null,
+   "reviews": {
+    "claude": {
+     "hook": 9,
+     "fit": 8,
+     "novelty": 7,
+     "feasibility": 9,
+     "accuracy_risk": 2,
+     "comment": "Strong first line, easy to film."
+    },
+    "gpt": {
+     "hook": 8,
+     "fit": 8,
+     "novelty": 8,
+     "feasibility": 8,
+     "accuracy_risk": 3,
+     "comment": "Good, but the middle needs one concrete example."
+    }
+   },
+   "score": 8.1,
+   "refined": true,
+   "script": {
+    "title": "The friend who only calls when they need something",
+    "hook": "You know the call before you pick up.",
+    "alt_hooks": [
+     "You know the call before you pick up?",
+     "Here's what's actually going on."
+    ],
+    "script": [
+     "You know the call before you pick up.",
+     "Here's the short version of why.",
+     "One line to remember it by.",
+     "Follow for tomorrow's."
+    ],
+    "word_count": 72,
+    "on_screen": [
+     "The friend who only calls when they need something"
+    ],
+    "shots": [
+     {
+      "line": "You know the call before you pick up.",
+      "visual": "close-up, slow push in"
+     }
+    ],
+    "youtube_title": "The friend who only calls when they need something",
+    "youtube_description": "The friend who only calls when they need something (sample)",
+    "instagram_caption": "The friend who only calls when they need something #sample",
+    "tiktok_caption": "The friend who only calls when they need something #sample",
+    "pinned_comment": "What should the next one be?",
+    "sources": [
+     "https://example.org/sample-source"
+    ],
+    "accuracy_notes": "Claims checked against the cited source.",
+    "changes": [
+     "Hook shortened to one line",
+     "Removed a claim the fact check couldn't verify"
+    ],
+    "pushback": [
+     "Kept the callback line: it tested well before"
+    ]
+   },
+   "critique": {
+    "score": 8.1,
+    "verdict": "ship with small edits",
+    "rule_violations": [],
+    "accuracy_issues": [],
+    "retention_notes": [
+     "Payoff lands at 18 s, keep it there"
+    ],
+    "line_edits": [
+     {
+      "line": "Here's the short version of why.",
+      "better": "Short version:",
+      "why": "two words saved"
+     }
+    ]
+   },
+   "factcheck": {
+    "pass": true,
+    "issues": [],
+    "rule_violations": []
+   },
+   "status": "approved",
+   "decision_note": null,
+   "decided_at": "2026-10-30T13:23:25.867542+00:00",
+   "exported_to": null
+  },
+  {
+   "id": 3,
+   "run_id": 1,
+   "channel": "arjun",
+   "created_at": "2026-10-29T13:23:25.867542+00:00",
+   "author": "claude",
+   "title": "Doing the hard thing first",
+   "hook": "Your to-do list has one item you keep skipping.",
+   "angle": "everyday problem first, then the idea",
+   "source": "Stoic letters (paraphrased)",
+   "format": "short explainer",
+   "hook_type": "relatable",
+   "pitch": null,
+   "reviews": {
+    "claude": {
+     "hook": 9,
+     "fit": 8,
+     "novelty": 7,
+     "feasibility": 9,
+     "accuracy_risk": 2,
+     "comment": "Strong first line, easy to film."
+    },
+    "gpt": {
+     "hook": 8,
+     "fit": 8,
+     "novelty": 8,
+     "feasibility": 8,
+     "accuracy_risk": 3,
+     "comment": "Good, but the middle needs one concrete example."
+    }
+   },
+   "score": 7.2,
+   "refined": false,
+   "script": null,
+   "critique": null,
+   "factcheck": null,
+   "status": "candidate",
+   "decision_note": null,
+   "decided_at": null,
+   "exported_to": null
+  },
+  {
+   "id": 4,
+   "run_id": 1,
+   "channel": "arjun",
+   "created_at": "2026-10-29T13:23:25.867542+00:00",
+   "author": "gpt",
+   "title": "Praise that feels empty",
+   "hook": "Someone says 'great job' and it lands on nothing.",
+   "angle": "everyday problem first, then the idea",
+   "source": "Stoic letters (paraphrased)",
+   "format": "short explainer",
+   "hook_type": "relatable",
+   "pitch": null,
+   "reviews": {
+    "claude": {
+     "hook": 9,
+     "fit": 8,
+     "novelty": 7,
+     "feasibility": 9,
+     "accuracy_risk": 2,
+     "comment": "Strong first line, easy to film."
+    },
+    "gpt": {
+     "hook": 8,
+     "fit": 8,
+     "novelty": 8,
+     "feasibility": 8,
+     "accuracy_risk": 3,
+     "comment": "Good, but the middle needs one concrete example."
+    }
+   },
+   "score": 6.4,
+   "refined": false,
+   "script": null,
+   "critique": null,
+   "factcheck": null,
+   "status": "rejected",
+   "decision_note": "Too close to last week's episode",
+   "decided_at": "2026-10-30T13:23:25.867542+00:00",
+   "exported_to": null
+  }
+ ]
+}

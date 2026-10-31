@@ -9,7 +9,7 @@
    "url": "https://example.org/job",
    "apply_url": "https://example.org/job",
    "posted_at": null,
-   "first_seen": "2026-10-01T22:29:56.892581+00:00",
+   "first_seen": "2026-10-29T19:23:25.867542+00:00",
    "score": 84,
    "level_fit": "good",
    "matched_skills": [
@@ -24,8 +24,8 @@
    "reason": "Sleep and HRV modelling is close to the sample's target area.",
    "status": "interview",
    "passed_prefilter": true,
-   "applied_at": "2026-09-21T16:29:56.892581+00:00",
-   "status_updated_at": "2026-10-01T16:29:56.892581+00:00",
+   "applied_at": "2026-10-19T13:23:25.867542+00:00",
+   "status_updated_at": "2026-10-29T13:23:25.867542+00:00",
    "applied_elsewhere_note": null
   },
   {
@@ -37,7 +37,7 @@
    "url": null,
    "apply_url": null,
    "posted_at": null,
-   "first_seen": "2026-09-24T16:29:56.892581+00:00",
+   "first_seen": "2026-10-22T13:23:25.867542+00:00",
    "score": null,
    "level_fit": null,
    "matched_skills": [],
@@ -45,8 +45,8 @@
    "reason": "Found in the sample inbox",
    "status": "applied",
    "passed_prefilter": true,
-   "applied_at": "2026-09-24T16:29:56.892581+00:00",
-   "status_updated_at": "2026-09-29T16:29:56.892581+00:00",
+   "applied_at": "2026-10-22T13:23:25.867542+00:00",
+   "status_updated_at": "2026-10-27T13:23:25.867542+00:00",
    "applied_elsewhere_note": null
   },
   {
@@ -58,7 +58,7 @@
    "url": null,
    "apply_url": null,
    "posted_at": null,
-   "first_seen": "2026-09-21T16:29:56.892581+00:00",
+   "first_seen": "2026-10-19T13:23:25.867542+00:00",
    "score": null,
    "level_fit": null,
    "matched_skills": [],
@@ -66,8 +66,8 @@
    "reason": "Found in the sample inbox",
    "status": "applied",
    "passed_prefilter": true,
-   "applied_at": "2026-09-21T16:29:56.892581+00:00",
-   "status_updated_at": "2026-09-26T16:29:56.892581+00:00",
+   "applied_at": "2026-10-19T13:23:25.867542+00:00",
+   "status_updated_at": "2026-10-24T13:23:25.867542+00:00",
    "applied_elsewhere_note": null
   },
   {
@@ -79,7 +79,7 @@
    "url": null,
    "apply_url": null,
    "posted_at": null,
-   "first_seen": "2026-09-18T16:29:56.892581+00:00",
+   "first_seen": "2026-10-16T13:23:25.867542+00:00",
    "score": null,
    "level_fit": null,
    "matched_skills": [],
@@ -87,8 +87,8 @@
    "reason": "Found in the sample inbox",
    "status": "interview",
    "passed_prefilter": true,
-   "applied_at": "2026-09-18T16:29:56.892581+00:00",
-   "status_updated_at": "2026-09-23T16:29:56.892581+00:00",
+   "applied_at": "2026-10-16T13:23:25.867542+00:00",
+   "status_updated_at": "2026-10-21T13:23:25.867542+00:00",
    "applied_elsewhere_note": null
   },
   {
@@ -100,7 +100,7 @@
    "url": "https://example.org/job",
    "apply_url": "https://example.org/job",
    "posted_at": null,
-   "first_seen": "2026-10-02T05:29:56.892581+00:00",
+   "first_seen": "2026-10-30T02:23:25.867542+00:00",
    "score": 71,
    "level_fit": "good",
    "matched_skills": [
@@ -115,7 +115,7 @@
    "reason": "Structured co-op program in finance.",
    "status": "applied",
    "passed_prefilter": true,
-   "applied_at": "2026-09-22T16:29:56.892581+00:00",
+   "applied_at": "2026-10-20T13:23:25.867542+00:00",
    "status_updated_at": null,
    "applied_elsewhere_note": null
   },
@@ -128,7 +128,7 @@
    "url": null,
    "apply_url": null,
    "posted_at": null,
-   "first_seen": "2026-09-09T16:29:56.892581+00:00",
+   "first_seen": "2026-10-07T13:23:25.867542+00:00",
    "score": null,
    "level_fit": null,
    "matched_skills": [],
@@ -136,8 +136,8 @@
    "reason": "Found in the sample inbox",
    "status": "rejected",
    "passed_prefilter": true,
-   "applied_at": "2026-09-09T16:29:56.892581+00:00",
-   "status_updated_at": "2026-09-14T16:29:56.892581+00:00",
+   "applied_at": "2026-10-07T13:23:25.867542+00:00",
+   "status_updated_at": "2026-10-12T13:23:25.867542+00:00",
    "applied_elsewhere_note": null
   },
   {
@@ -149,7 +149,7 @@
    "url": null,
    "apply_url": null,
    "posted_at": null,
-   "first_seen": "2026-09-03T16:29:56.892581+00:00",
+   "first_seen": "2026-10-01T13:23:25.867542+00:00",
    "score": null,
    "level_fit": null,
    "matched_skills": [],
@@ -157,14 +157,14 @@
    "reason": "Found in the sample inbox",
    "status": "rejected",
    "passed_prefilter": true,
-   "applied_at": "2026-09-03T16:29:56.892581+00:00",
-   "status_updated_at": "2026-09-08T16:29:56.892581+00:00",
+   "applied_at": "2026-10-01T13:23:25.867542+00:00",
+   "status_updated_at": "2026-10-06T13:23:25.867542+00:00",
    "applied_elsewhere_note": null
   }
  ],
  "emails": [
   {
-   "received_at": "2026-09-24T16:29:56.892581+00:00",
+   "received_at": "2026-10-22T13:23:25.867542+00:00",
    "account": "sample-a",
    "subject": "Application received",
    "category": "applied",
@@ -173,7 +173,7 @@
    "job_id": "email:tidewater-mutual:3"
   },
   {
-   "received_at": "2026-09-23T16:29:56.892581+00:00",
+   "received_at": "2026-10-21T13:23:25.867542+00:00",
    "account": "sample-b",
    "subject": "Interview invitation",
    "category": "interview",
@@ -182,7 +182,7 @@
    "job_id": "email:arc-motion:2"
   },
   {
-   "received_at": "2026-09-21T16:29:56.892581+00:00",
+   "received_at": "2026-10-19T13:23:25.867542+00:00",
    "account": "sample-a",
    "subject": "Thanks for applying",
    "category": "applied",
@@ -191,7 +191,7 @@
    "job_id": "email:brightline-clinics:1"
   },
   {
-   "received_at": "2026-09-14T16:29:56.892581+00:00",
+   "received_at": "2026-10-12T13:23:25.867542+00:00",
    "account": "sample-b",
    "subject": "Update on your application",
    "category": "rejected",
@@ -200,7 +200,7 @@
    "job_id": "email:vellum-bio:0"
   },
   {
-   "received_at": "2026-09-08T16:29:56.892581+00:00",
+   "received_at": "2026-10-06T13:23:25.867542+00:00",
    "account": "sample-b",
    "subject": "About your application",
    "category": "rejected",

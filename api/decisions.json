@@ -1,0 +1,285 @@
+{
+ "open": [
+  {
+   "id": "sample-061",
+   "project": "jarvis",
+   "project_name": "Jarvis",
+   "title": "Job Scout: weekly digest instead of per-run notifications",
+   "date": "2026-10-31",
+   "status": "open",
+   "picked": null,
+   "sections": [
+    "Approach",
+    "Schedule"
+   ],
+   "pending_sections": [
+    "Approach",
+    "Schedule"
+   ],
+   "answer": null,
+   "url": "decisions/sample-061.html",
+   "proposal": {
+    "status": "waiting",
+    "status_label": "Waiting for you",
+    "version": 1,
+    "revision": null,
+    "versions": [
+     {
+      "v": 1,
+      "at": "2026-10-31T14:23:26.022153Z",
+      "notes": "",
+      "changes": []
+     }
+    ],
+    "notes_pending": null,
+    "approval": null,
+    "run": null,
+    "previous_url": null,
+    "watcher": {
+     "running": true,
+     "pid": null,
+     "age_s": 40
+    }
+   }
+  },
+  {
+   "id": "sample-060",
+   "project": "verse",
+   "project_name": "Verse a Day",
+   "title": "Verse a Day: test a 3-part series format next week",
+   "date": "2026-10-30",
+   "status": "open",
+   "picked": null,
+   "sections": [
+    "Format",
+    "Episodes"
+   ],
+   "pending_sections": [
+    "Format",
+    "Episodes"
+   ],
+   "answer": null,
+   "url": "decisions/sample-060.html",
+   "proposal": {
+    "status": "waiting",
+    "status_label": "Waiting for you",
+    "version": 2,
+    "revision": {
+     "v": 2,
+     "at": "2026-10-30T15:23:26.022153Z",
+     "notes": "Make the weekly option cheaper",
+     "changes": [
+      "Cut the second model call",
+      "Cost estimate updated"
+     ]
+    },
+    "versions": [
+     {
+      "v": 1,
+      "at": "2026-10-30T14:23:26.022153Z",
+      "notes": "",
+      "changes": []
+     },
+     {
+      "v": 2,
+      "at": "2026-10-30T15:23:26.022153Z",
+      "notes": "Make the weekly option cheaper",
+      "changes": [
+       "Cut the second model call",
+       "Cost estimate updated"
+      ]
+     }
+    ],
+    "notes_pending": null,
+    "approval": null,
+    "run": null,
+    "previous_url": null,
+    "watcher": {
+     "running": true,
+     "pid": null,
+     "age_s": 40
+    }
+   }
+  }
+ ],
+ "decided": [
+  {
+   "id": "sample-059",
+   "project": "physics",
+   "project_name": "Pocket Physics",
+   "title": "Pocket Physics: move posting from 4 pm to 6 pm",
+   "date": "2026-10-28",
+   "status": "decided",
+   "picked": "B",
+   "sections": [
+    "Time"
+   ],
+   "pending_sections": [],
+   "answer": {
+    "choice": "B",
+    "notes": "Try it for two weeks, then compare 7-day views.",
+    "time": "2026-10-28T19:23:26.022153Z",
+    "complete": true
+   },
+   "url": "decisions/sample-059.html",
+   "proposal": {
+    "status": "done",
+    "status_label": "Done",
+    "version": 1,
+    "revision": null,
+    "versions": [
+     {
+      "v": 1,
+      "at": "2026-10-28T14:23:26.022153Z",
+      "notes": "",
+      "changes": []
+     }
+    ],
+    "notes_pending": null,
+    "approval": {
+     "at": "2026-10-28T19:23:26.022153Z",
+     "version": 1,
+     "choice": "B",
+     "notes": "Try it for two weeks, then compare 7-day views."
+    },
+    "run": {
+     "kind": "carry_out",
+     "state": "done",
+     "summary": "Slots moved to 6 pm for both platforms; comparison note added for the weekly review.",
+     "started": "2026-10-28T19:23:26.022153Z",
+     "finished": "2026-10-28T20:23:26.022153Z"
+    },
+    "previous_url": null,
+    "watcher": {
+     "running": true,
+     "pid": null,
+     "age_s": 40
+    }
+   }
+  },
+  {
+   "id": "sample-058",
+   "project": "jarvis",
+   "project_name": "Jarvis",
+   "title": "Review tab: approve the whole week in one click",
+   "date": "2026-10-26",
+   "status": "decided",
+   "picked": "A",
+   "sections": [
+    "Approach"
+   ],
+   "pending_sections": [],
+   "answer": {
+    "choice": "A",
+    "notes": "",
+    "time": "2026-10-26T19:23:26.022153Z",
+    "complete": true
+   },
+   "url": "decisions/sample-058.html",
+   "proposal": {
+    "status": "done",
+    "status_label": "Done",
+    "version": 2,
+    "revision": {
+     "v": 2,
+     "at": "2026-10-26T15:23:26.022153Z",
+     "notes": "Make the weekly option cheaper",
+     "changes": [
+      "Cut the second model call",
+      "Cost estimate updated"
+     ]
+    },
+    "versions": [
+     {
+      "v": 1,
+      "at": "2026-10-26T14:23:26.022153Z",
+      "notes": "",
+      "changes": []
+     },
+     {
+      "v": 2,
+      "at": "2026-10-26T15:23:26.022153Z",
+      "notes": "Make the weekly option cheaper",
+      "changes": [
+       "Cut the second model call",
+       "Cost estimate updated"
+      ]
+     }
+    ],
+    "notes_pending": null,
+    "approval": {
+     "at": "2026-10-26T19:23:26.022153Z",
+     "version": 2,
+     "choice": "A",
+     "notes": ""
+    },
+    "run": {
+     "kind": "carry_out",
+     "state": "done",
+     "summary": "Built and tested: one confirmation, then each video at its own slot.",
+     "started": "2026-10-26T19:23:26.022153Z",
+     "finished": "2026-10-26T20:23:26.022153Z"
+    },
+    "previous_url": null,
+    "watcher": {
+     "running": true,
+     "pid": null,
+     "age_s": 40
+    }
+   }
+  },
+  {
+   "id": "sample-057",
+   "project": "verse",
+   "project_name": "Verse a Day",
+   "title": "Verse a Day: drop the 1-minute meditation format",
+   "date": "2026-10-23",
+   "status": "decided",
+   "picked": null,
+   "sections": [
+    "Format"
+   ],
+   "pending_sections": [],
+   "answer": {
+    "choice": "",
+    "notes": "Keep it, it's the best performer on Instagram.",
+    "time": "2026-10-23T19:23:26.022153Z",
+    "complete": true
+   },
+   "url": "decisions/sample-057.html",
+   "proposal": {
+    "status": "declined",
+    "status_label": "Declined",
+    "version": 1,
+    "revision": null,
+    "versions": [
+     {
+      "v": 1,
+      "at": "2026-10-23T14:23:26.022153Z",
+      "notes": "",
+      "changes": []
+     }
+    ],
+    "notes_pending": null,
+    "approval": null,
+    "run": {
+     "kind": "decline",
+     "state": "done",
+     "summary": "Note saved for the next proposal."
+    },
+    "previous_url": null,
+    "watcher": {
+     "running": true,
+     "pid": null,
+     "age_s": 40
+    }
+   }
+  }
+ ],
+ "open_count": 2,
+ "watcher": {
+  "running": true,
+  "pid": null,
+  "age_s": 40
+ }
+}
